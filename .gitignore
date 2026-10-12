@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+store.db
+store.db-shm
+store.db-wal
+uploads/*
+!uploads/.gitkeep
+.env
+*.jks
+*.keystore
+keystore.properties
+local.properties
+*.pid
+server.log
+dist/

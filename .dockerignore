@@ -1,0 +1,12 @@
+.git
+android
+artifacts
+tests
+tools
+docs
+*.md
+__pycache__
+store.db*
+uploads
+backups
+.env
