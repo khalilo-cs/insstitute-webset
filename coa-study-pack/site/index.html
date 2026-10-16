@@ -1,0 +1,46 @@
+<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head><body>
+<title>مراجعة معمارية الحاسوب</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;600;700&display=swap">
+<style>
+/* Layout: one column of three labelled shelves; each shelf lists its quiz and PDF as rows. */
+:root{--bg:#f3f6f6;--fg:#12262b;--mut:#587077;--card:#ffffff;--line:#d5e0e2;--acc:#0b6a85;--accfg:#ffffff;--warn:#7a5200;--warnbg:#fff3cd;
+--font:"IBM Plex Sans Arabic","Segoe UI",Tahoma,"DejaVu Sans",sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1b1e;--fg:#e3eef0;--mut:#93aab0;--card:#16262a;--line:#28403f;--acc:#4cb7d6;--accfg:#06232b;--warn:#ffd36b;--warnbg:#3a2f12;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f1b1e;--fg:#e3eef0;--mut:#93aab0;--card:#16262a;--line:#28403f;--acc:#4cb7d6;--accfg:#06232b;--warn:#ffd36b;--warnbg:#3a2f12;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:16px/1.7 var(--font);padding-block:28px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:760px;margin:0 auto;display:grid;gap:26px}
+h1{font-size:clamp(1.6rem,5vw,2.2rem);line-height:1.25;margin:0;text-wrap:balance}
+.lead{margin:6px 0 0;color:var(--mut)}
+h2{font-size:1.15rem;margin:0}.sub{color:var(--mut);font-size:.9rem;margin:2px 0 10px}
+.shelf{display:grid;gap:8px}
+.row{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.row .t{min-width:0;flex:1 1 220px}.row .t b{display:block}.row .t span{color:var(--mut);font-size:.88rem}
+.btn{display:inline-block;text-decoration:none;font-weight:600;padding:7px 16px;border-radius:8px;border:1px solid var(--acc);color:var(--acc);white-space:nowrap}
+.btn.main{background:var(--acc);color:var(--accfg)}
+.btn:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.btns{display:flex;gap:8px;flex-wrap:wrap}
+.note{background:var(--warnbg);color:var(--warn);border-radius:10px;padding:10px 14px;font-size:.92rem}
+.note ul{margin:4px 0 0;padding-right:20px}
+</style>
+<div class="wrap">
+<header><h1>مراجعة معمارية وتنظيم الحاسوب</h1>
+<p class="lead">كل أسئلة الدكتورة منال العريقي مع الإجابات، وأسئلة مستخرجة من المحاضرات، والامتحان السابق. تعمل على الجوال والحاسوب وأي نظام.</p></header>
+
+<section class="shelf"><div><h2>١ — نماذج الدكتورة</h2><p class="sub">509 أسئلة من ملف البنك الذي أرسلته، موزعة على 15 قسماً</p></div>
+<div class="row"><div class="t"><b>الاختبار التفاعلي</b><span>اختر القسم والنوع، تحقق من إجابتك، وشاهد نتيجتك</span></div><div class="btns"><a class="btn main" href="doctor/quiz.html" target="_blank" rel="noopener">ابدأ الاختبار</a></div></div>
+<div class="row"><div class="t"><b>البنك كاملاً مع الإجابات</b><span>PDF — 38 صفحة</span></div><div class="btns"><a class="btn" href="doctor/question-bank.pdf" target="_blank" rel="noopener">فتح الملف</a></div></div></section>
+
+<section class="shelf"><div><h2>٢ — أسئلة مستخرجة من المحاضرات</h2><p class="sub">222 سؤالاً بنفس أسلوب الدكتورة، من الفصول 1–7 و14 و16</p></div>
+<div class="row"><div class="t"><b>الاختبار التفاعلي</b><span>صح/خطأ، اختيار من متعدد، أكمل الفراغ</span></div><div class="btns"><a class="btn main" href="extracted/quiz.html" target="_blank" rel="noopener">ابدأ الاختبار</a></div></div>
+<div class="row"><div class="t"><b>الأسئلة مع الإجابات</b><span>PDF — 19 صفحة</span></div><div class="btns"><a class="btn" href="extracted/questions.pdf" target="_blank" rel="noopener">فتح الملف</a></div></div></section>
+
+<section class="shelf"><div><h2>٣ — الامتحان السابق (2024–2025)</h2><p class="sub">40 سؤالاً محلولة بشرح عربي، ودليل مراجعة سريع</p></div>
+<div class="row"><div class="t"><b>الاختبار التفاعلي</b><span>أسئلة الامتحان مع الشرح</span></div><div class="btns"><a class="btn main" href="exam/quiz.html" target="_blank" rel="noopener">ابدأ الاختبار</a></div></div>
+<div class="row"><div class="t"><b>الامتحان محلولاً</b><span>PDF — 15 صفحة</span></div><div class="btns"><a class="btn" href="exam/solved.pdf" target="_blank" rel="noopener">فتح الملف</a></div></div>
+<div class="row"><div class="t"><b>دليل المراجعة السريع بالعربي</b><span>PDF — 8 صفحات</span></div><div class="btns"><a class="btn" href="exam/study-guide.pdf" target="_blank" rel="noopener">فتح الملف</a></div></div></section>
+
+<div class="note"><b>تنبيه:</b><ul><li>الإجابات حل مبني على ملفات المحاضرة وليست مفتاحاً رسمياً.</li><li>81 إجابة في نماذج الدكتورة من حلّي لأنها غير معلَّمة في ملفها، وهي موسومة داخل الاختبار.</li><li>تقدّمك في الاختبارات يُحفظ في متصفحك فقط.</li></ul></div>
+</div>
+
+</body></html>
