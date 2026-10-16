@@ -1,0 +1,2415 @@
+[
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "The software/hardware boundary in the hierarchy of computer architecture is:",
+  "opts": [
+   [
+    "A",
+    "Compiler"
+   ],
+   [
+    "B",
+    "Operating System"
+   ],
+   [
+    "C",
+    "Instruction Set Architecture (ISA)"
+   ],
+   [
+    "D",
+    "Digital Design"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Ch1 Notes — https://www.studocu.com/row/document/pokhara-university/computer-engineering/chapter-1-introduction-to-computer-organization-and-architecture/135543937"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "Which is NOT one of the three characteristics of Von Neumann architecture?",
+  "opts": [
+   [
+    "A",
+    "Four main subsystems (Memory, ALU, CU, I/O)"
+   ],
+   [
+    "B",
+    "Program stored in memory"
+   ],
+   [
+    "C",
+    "Instructions executed in parallel by default"
+   ],
+   [
+    "D",
+    "Sequential execution"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Von Neumann — https://www.studocu.com/en-gb/document/university-of-greenwich/computer-systems-architectures/computer-system-architecture-lecture-notes/16604747"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "tf",
+  "q": "Organizational attributes include hardware details transparent to the programmer, control signals, interfaces, and memory technology.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu CH01 Testbank — https://www.studocu.com/row/document/jamaa%D8%A9-aayn-shms/history-of-architecture-iii/ch01-testbank/62838876"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "The four basic functions a computer performs are data processing, data storage, data movement, and:",
+  "opts": [
+   [
+    "A",
+    "Compilation"
+   ],
+   [
+    "B",
+    "Control"
+   ],
+   [
+    "C",
+    "Virtualization"
+   ],
+   [
+    "D",
+    "Indexing"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch1 Stallings — https://quizlet.com/417090536/chapter-1-basic-concepts-and-computer-evolution-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "tf",
+  "q": "The IAS computer (completed 1952) is the prototype of all subsequent general-purpose computers based on Von Neumann's stored-program concept.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 2 — https://quizlet.com/60387317/cea201-unit-2-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "In the IAS computer memory format, each 40-bit instruction word contains:",
+  "opts": [
+   [
+    "A",
+    "One 40-bit instruction"
+   ],
+   [
+    "B",
+    "Two 20-bit instructions (each: 8-bit opcode + 12-bit address)"
+   ],
+   [
+    "C",
+    "Four 10-bit instructions"
+   ],
+   [
+    "D",
+    "Two 16-bit instructions"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu COMP204 Q&A — https://www.studocu.com/en-za/document/university-of-kwazulu-natal/computer-organisation-and-architecture/comp204-test-1-complete-past-paper-qa-bank-memorandum/170994578"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "In the IAS computer, the _____ temporarily holds the right-hand instruction from a word in memory.",
+  "opts": [
+   [
+    "A",
+    "MBR"
+   ],
+   [
+    "B",
+    "IR"
+   ],
+   [
+    "C",
+    "IBR (Instruction Buffer Register)"
+   ],
+   [
+    "D",
+    "MAR"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch1 Flashcards — https://quizlet.com/368982593/ch1-computer-organization-and-architecture-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "In the IAS computer, the _____ contains the 8-bit opcode instruction being executed.",
+  "opts": [
+   [
+    "A",
+    "MBR"
+   ],
+   [
+    "B",
+    "IBR"
+   ],
+   [
+    "C",
+    "IR (Instruction Register)"
+   ],
+   [
+    "D",
+    "MAR"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA Ch2 MC — https://quizlet.com/vn/245353731/cea-chapter-2-mc-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "tf",
+  "q": "In the IAS computer, the Program Counter (PC) contains the address of the next instruction-pair to be fetched from memory.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CPSC 440 — https://quizlet.com/572083696/cpsc-440-exam-1-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "In the 2nd generation (IBM 7094), a 'data channel' is:",
+  "opts": [
+   [
+    "A",
+    "A cache line in ALU"
+   ],
+   [
+    "B",
+    "An independent I/O module with its own processor and instruction set"
+   ],
+   [
+    "C",
+    "A vacuum tube unit"
+   ],
+   [
+    "D",
+    "An optical disk"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch1 Stallings — https://quizlet.com/417090536/chapter-1-basic-concepts-and-computer-evolution-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "tf",
+  "q": "In 3rd generation (ICs), the building blocks of a digital computer are Gates, Memory cells, and Interconnections.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu COA Generations — https://www.studocu.com/row/document/mount-kenya-university/computer-architecture/computer-architecture-and-organization-key-concepts-and-generations/131776823"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "Which chip (1971) was the first to contain all components of a CPU on a single chip (birth of microprocessor)?",
+  "opts": [
+   [
+    "A",
+    "Intel 8008"
+   ],
+   [
+    "B",
+    "Intel 8080"
+   ],
+   [
+    "C",
+    "Intel 4004"
+   ],
+   [
+    "D",
+    "IBM 7094"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch1 Stallings — https://quizlet.com/417090536/chapter-1-basic-concepts-and-computer-evolution-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "The Intel 8008 (1972) was the first 8-bit microprocessor, while the _____ (1974) was the first general-purpose microprocessor.",
+  "opts": [
+   [
+    "A",
+    "Intel 4004"
+   ],
+   [
+    "B",
+    "Intel 8080"
+   ],
+   [
+    "C",
+    "Intel 8086"
+   ],
+   [
+    "D",
+    "Pentium"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch1 Stallings — https://quizlet.com/417090536/chapter-1-basic-concepts-and-computer-evolution-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "A single chip containing the processor, ROM, RAM, clock, and I/O control unit ('computer on a chip') is a:",
+  "opts": [
+   [
+    "A",
+    "Multiplexor"
+   ],
+   [
+    "B",
+    "Microcontroller"
+   ],
+   [
+    "C",
+    "Data channel"
+   ],
+   [
+    "D",
+    "Discrete component"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch1 Stallings — https://quizlet.com/417090536/chapter-1-basic-concepts-and-computer-evolution-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "mcq",
+  "q": "In Cloud Computing, which service model lets customers deploy their own applications while the CSP manages everything from Application Framework down to Networking?",
+  "opts": [
+   [
+    "A",
+    "IaaS"
+   ],
+   [
+    "B",
+    "PaaS (Platform as a Service)"
+   ],
+   [
+    "C",
+    "SaaS"
+   ],
+   [
+    "D",
+    "Traditional IT"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch1 Stallings — https://quizlet.com/417090536/chapter-1-basic-concepts-and-computer-evolution-flash-cards/"
+ },
+ {
+  "sec": "Ch1: Computer Organization & Evolution",
+  "type": "tf",
+  "q": "Moving from Traditional IT to SaaS makes the architecture less complex, lower upfront cost, more scalable, and less customizable.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Ch1 Notes — https://www.studocu.com/row/document/pokhara-university/computer-engineering/chapter-1-introduction-to-computer-organization-and-architecture/135543937"
+ },
+ {
+  "sec": "Ch2: Performance Issues in Computer Systems",
+  "type": "tf",
+  "q": "Pipelining reduces the execution time of an individual instruction.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Comp Arch Guide — https://www.studocu.com/en-us/document/harvard-university/computer-science/comp-arch-cs101-final-exam-study-guide-pipelining-cache/163776812"
+ },
+ {
+  "sec": "Ch2: Performance Issues in Computer Systems",
+  "type": "mcq",
+  "q": "What distinguishes Superpipelined from Superscalar execution?",
+  "opts": [
+   [
+    "A",
+    "Superpipelined divides stages into granular sub-stages for higher clock frequency; Superscalar issues multiple instructions per cycle via multiple execution units"
+   ],
+   [
+    "B",
+    "They are identical"
+   ],
+   [
+    "C",
+    "Superpipelined uses multiple ALUs simultaneously"
+   ],
+   [
+    "D",
+    "Superscalar cannot use pipelines"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Ch16 Superscalar — https://www.studocu.com/ph/document/centro-escolar-university/computer-engineering/chapter-16-superscalar-execution-and-ilp-insights/154254841"
+ },
+ {
+  "sec": "Ch2: Performance Issues in Computer Systems",
+  "type": "mcq",
+  "q": "Using branch prediction and data flow analysis to execute instructions ahead of their actual appearance in the program, holding results in temporary locations, is:",
+  "opts": [
+   [
+    "A",
+    "Superpipelining"
+   ],
+   [
+    "B",
+    "Speculative execution"
+   ],
+   [
+    "C",
+    "DMA"
+   ],
+   [
+    "D",
+    "Interleaving"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Medium C. Kekula — https://medium.com/@ckekula/understanding-computer-performance-branch-prediction-31efe31cf162"
+ },
+ {
+  "sec": "Ch2: Performance Issues in Computer Systems",
+  "type": "mcq",
+  "q": "In _____ analysis, the processor analyzes which instructions are dependent on each other's results to create an optimized schedule.",
+  "opts": [
+   [
+    "A",
+    "Branch prediction"
+   ],
+   [
+    "B",
+    "Data flow"
+   ],
+   [
+    "C",
+    "Cache mapping"
+   ],
+   [
+    "D",
+    "Bus arbitration"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Medium C. Kekula — https://medium.com/@ckekula/understanding-computer-performance-branch-prediction-31efe31cf162"
+ },
+ {
+  "sec": "Ch2: Performance Issues in Computer Systems",
+  "type": "mcq",
+  "q": "Which approach helps overcome the performance imbalance between processor and DRAM speeds?",
+  "opts": [
+   [
+    "A",
+    "Make DRAMs wider rather than deeper"
+   ],
+   [
+    "B",
+    "Reduce memory access frequency via efficient caches"
+   ],
+   [
+    "C",
+    "Increase interconnect bandwidth with high-speed bus hierarchies"
+   ],
+   [
+    "D",
+    "All of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 2 — https://quizlet.com/60387317/cea201-unit-2-flash-cards/"
+ },
+ {
+  "sec": "Ch2: Performance Issues in Computer Systems",
+  "type": "tf",
+  "q": "The Multicore strategy uses two or more simpler processors on a chip rather than one complex processor, with 2 or 3 levels of cache on chip.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch1 Stallings — https://quizlet.com/417090536/chapter-1-basic-concepts-and-computer-evolution-flash-cards/"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "Which register specifies the address in memory for the next read or write?",
+  "opts": [
+   [
+    "A",
+    "MBR"
+   ],
+   [
+    "B",
+    "MAR (Memory Address Register)"
+   ],
+   [
+    "C",
+    "I/OAR"
+   ],
+   [
+    "D",
+    "I/OBR"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA Chap 3+4 — https://quizlet.com/36766615/cea-chap-34-flash-cards/"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "The _____ contains the data to be written into memory or receives the data read from memory.",
+  "opts": [
+   [
+    "A",
+    "MAR"
+   ],
+   [
+    "B",
+    "PC"
+   ],
+   [
+    "C",
+    "MBR (Memory Buffer Register)"
+   ],
+   [
+    "D",
+    "I/OAR"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Ch3 — https://quizlet.com/vn/550164187/cea201-flash-cards/"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "I/OAR specifies a particular I/O device, whereas _____ is used for the exchange of data between an I/ O module and the CPU.",
+  "opts": [
+   [
+    "A",
+    "MBR"
+   ],
+   [
+    "B",
+    "MAR"
+   ],
+   [
+    "C",
+    "I/OBR (I/O Buffer Register)"
+   ],
+   [
+    "D",
+    "IR"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Ch3 Notes — https://www.studocu.com/row/document/south-east-european-university/computer-architecture/chapter-iii-a-top-level-view-of-computer-function-and-interconnection/44778266"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "The four action categories of computer function are Processor-memory, Processor-I/O, Data processing, and:",
+  "opts": [
+   [
+    "A",
+    "Caching"
+   ],
+   [
+    "B",
+    "Control (altering execution sequence)"
+   ],
+   [
+    "C",
+    "Pipelining"
+   ],
+   [
+    "D",
+    "Bus grant"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Medium BICS1302 — https://medium.com/bics1302-stury-reflection/introduction-to-computer-organisation-week-2-sect-4-2412181-haddif-asjad-8e0286efae4d"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "In the Instruction Cycle State Diagram, which state analyzes the instruction to determine the operation and operands?",
+  "opts": [
+   [
+    "A",
+    "Instruction fetch (if)"
+   ],
+   [
+    "B",
+    "Instruction operation decoding (iod)"
+   ],
+   [
+    "C",
+    "Operand address calculation (oac)"
+   ],
+   [
+    "D",
+    "Data operation (do)"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Blogspot / Medium — https://maniruzzaman-akash.blogspot.com/2017/04/list-and-briefly-define-possible-states.html"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "In the Instruction Cycle State Diagram, which state determines the address of an operand in memory or I/O?",
+  "opts": [
+   [
+    "A",
+    "iac"
+   ],
+   [
+    "B",
+    "Operand address calculation (oac)"
+   ],
+   [
+    "C",
+    "Operand fetch (of)"
+   ],
+   [
+    "D",
+    "Operand store (os)"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Blogspot / Medium — https://maniruzzaman-akash.blogspot.com/2017/04/list-and-briefly-define-possible-states.html"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "The four classes of interrupts are Program, Timer, I/O, and:",
+  "opts": [
+   [
+    "A",
+    "Cache miss"
+   ],
+   [
+    "B",
+    "Hardware failure (power failure / memory parity error)"
+   ],
+   [
+    "C",
+    "Branch prediction"
+   ],
+   [
+    "D",
+    "Bus grant"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA Chap 3+4 — https://quizlet.com/36766615/cea-chap-34-flash-cards/"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "Arithmetic overflow, division by zero, or executing an illegal instruction generates a _____ interrupt.",
+  "opts": [
+   [
+    "A",
+    "Timer"
+   ],
+   [
+    "B",
+    "Program"
+   ],
+   [
+    "C",
+    "I/O"
+   ],
+   [
+    "D",
+    "Hardware failure"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Final — https://quizlet.com/vn/518426888/cea201-final-exam-version-3-flash-cards/"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "A _____ interrupt is generated by an internal processor timer to allow the OS to perform functions regularly.",
+  "opts": [
+   [
+    "A",
+    "Program"
+   ],
+   [
+    "B",
+    "Timer"
+   ],
+   [
+    "C",
+    "I/O"
+   ],
+   [
+    "D",
+    "Hardware failure"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA Chap 3+4 — https://quizlet.com/36766615/cea-chap-34-flash-cards/"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "Which mechanism allows I/O modules to read/write directly to memory without tying up the processor?",
+  "opts": [
+   [
+    "A",
+    "Programmed I/O"
+   ],
+   [
+    "B",
+    "Direct Memory Access (DMA)"
+   ],
+   [
+    "C",
+    "ISR"
+   ],
+   [
+    "D",
+    "Associative Mapping"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Final — https://quizlet.com/vn/518077332/cea201-final-exam-flash-cards/"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "tf",
+  "q": "On a shared bus, if two devices transmit during the same time period, their signals overlap and become garbled.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: COA Garage Bus — http://coagarage.blogspot.com/p/bus.html"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "The width of the _____ bus determines how many bits can be transferred at a time and is a key factor in system performance.",
+  "opts": [
+   [
+    "A",
+    "Control"
+   ],
+   [
+    "B",
+    "Address"
+   ],
+   [
+    "C",
+    "Data"
+   ],
+   [
+    "D",
+    "Interrupt"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu System Bus — https://www.studocu.com/en-gb/document/wigston-college/computer-science/data-address-and-control-bus-explained/118115708"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "Which control bus line indicates that data have been accepted from or placed on the bus?",
+  "opts": [
+   [
+    "A",
+    "Bus grant"
+   ],
+   [
+    "B",
+    "Bus request"
+   ],
+   [
+    "C",
+    "Transfer ACK"
+   ],
+   [
+    "D",
+    "Interrupt ACK"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: COA Garage Bus — http://coagarage.blogspot.com/p/bus.html"
+ },
+ {
+  "sec": "Ch3: Top-Level View of Computer Function & Interconnection",
+  "type": "mcq",
+  "q": "Which control line indicates a module needs control of the bus, whereas 'Bus grant' indicates it has been granted control?",
+  "opts": [
+   [
+    "A",
+    "Memory write"
+   ],
+   [
+    "B",
+    "Bus request"
+   ],
+   [
+    "C",
+    "Transfer ACK"
+   ],
+   [
+    "D",
+    "Reset"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: COA Garage Bus — http://coagarage.blogspot.com/p/bus.html"
+ },
+ {
+  "sec": "Ch4: Computer Memory System Overview",
+  "type": "tf",
+  "q": "Internal memory is directly accessible by the processor, while external memory is accessed via an I/ O module.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 4 — https://quizlet.com/60391758/cea201-unit-4-flash-cards/"
+ },
+ {
+  "sec": "Ch4: Computer Memory System Overview",
+  "type": "tf",
+  "q": "Cache is NOT a form of internal memory.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 4 — https://quizlet.com/60391758/cea201-unit-4-flash-cards/"
+ },
+ {
+  "sec": "Ch4: Computer Memory System Overview",
+  "type": "mcq",
+  "q": "'Memory is organized into records and access must be made in a specific linear sequence' describes:",
+  "opts": [
+   [
+    "A",
+    "Sequential access (Tape)"
+   ],
+   [
+    "B",
+    "Direct access (Disk)"
+   ],
+   [
+    "C",
+    "Random access (RAM)"
+   ],
+   [
+    "D",
+    "Associative access (Cache)"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 4 multi — https://quizlet.com/130331190/cea201-unit-4-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch4: Computer Memory System Overview",
+  "type": "mcq",
+  "q": "Individual blocks have a unique address based on physical location and use a shared read-write mechanism in:",
+  "opts": [
+   [
+    "A",
+    "Associative access"
+   ],
+   [
+    "B",
+    "Direct access (Magnetic Disk)"
+   ],
+   [
+    "C",
+    "Random access"
+   ],
+   [
+    "D",
+    "Sequential access"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 4 multi — https://quizlet.com/130331190/cea201-unit-4-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch4: Computer Memory System Overview",
+  "type": "mcq",
+  "q": "Going down the memory hierarchy (Registers -> Cache -> Main Memory -> Disk -> Tape) results in:",
+  "opts": [
+   [
+    "A",
+    "Decreasing cost/bit, increasing capacity, increasing access time"
+   ],
+   [
+    "B",
+    "Increasing cost/bit and decreasing capacity"
+   ],
+   [
+    "C",
+    "Decreasing access time"
+   ],
+   [
+    "D",
+    "Higher transfer rate"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch4 COA — https://quizlet.com/sa/166830635/ch4-computer-architecture-flash-cards/"
+ },
+ {
+  "sec": "Ch4: Computer Memory System Overview",
+  "type": "mcq",
+  "q": "A portion of main memory used as a buffer to hold data temporarily for disk transfers is called a:",
+  "opts": [
+   [
+    "A",
+    "Disk cache"
+   ],
+   [
+    "B",
+    "Register file"
+   ],
+   [
+    "C",
+    "Virtual address"
+   ],
+   [
+    "D",
+    "TLB"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 4 multi — https://quizlet.com/130331190/cea201-unit-4-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch4: Computer Memory System Overview",
+  "type": "mcq",
+  "q": "Registers are managed by the _____, Cache by _____, and Main Memory by _____.",
+  "opts": [
+   [
+    "A",
+    "Compiler; Processor hardware; Operating system (OS)"
+   ],
+   [
+    "B",
+    "OS; Compiler; User"
+   ],
+   [
+    "C",
+    "Hardware; OS; Compiler"
+   ],
+   [
+    "D",
+    "User; OS; Hardware"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: ManaTutor Memory — https://www.manatutor.com/show.php/list-and-explain-the-different-characteristics-of-memory-system?id=209"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "mcq",
+  "q": "Each cache line includes a _____ that identifies which main-memory block is currently stored in that line.",
+  "opts": [
+   [
+    "A",
+    "Hit bit"
+   ],
+   [
+    "B",
+    "Tag"
+   ],
+   [
+    "C",
+    "Page table"
+   ],
+   [
+    "D",
+    "Sector"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 4 multi — https://quizlet.com/130331190/cea201-unit-4-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "tf",
+  "q": "A Logical Cache sits between the processor and MMU (uses virtual addresses), whereas a Physical Cache sits between the MMU and main memory (uses physical addresses).",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch4 Cache — https://quizlet.com/309564861/chapter-4-computer-memory-system-overview-cache-memory-flash-cards/"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "mcq",
+  "q": "_____ is the simplest mapping technique and maps each block of main memory into only one possible cache line.",
+  "opts": [
+   [
+    "A",
+    "Direct mapping"
+   ],
+   [
+    "B",
+    "Associative mapping"
+   ],
+   [
+    "C",
+    "Set-associative mapping"
+   ],
+   [
+    "D",
+    "Virtual mapping"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 4 multi — https://quizlet.com/130331190/cea201-unit-4-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "mcq",
+  "q": "In _____ mapping, cache lines are grouped into v sets of k lines (m = v x k), and each memory block maps to one unique set (any line in that set).",
+  "opts": [
+   [
+    "A",
+    "Direct"
+   ],
+   [
+    "B",
+    "Fully associative"
+   ],
+   [
+    "C",
+    "Set-associative"
+   ],
+   [
+    "D",
+    "Sequential"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: CliffsNotes Cache — https://www.cliffsnotes.com/study-notes/22311893"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "mcq",
+  "q": "Which mapping technique needs NO replacement algorithm because each block has only one fixed cache line?",
+  "opts": [
+   [
+    "A",
+    "Associative"
+   ],
+   [
+    "B",
+    "Set-associative"
+   ],
+   [
+    "C",
+    "Direct mapping"
+   ],
+   [
+    "D",
+    "All of them"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Cache Principles — https://www.studocu.com/in/document/trident-academy-of-technology/computer-science/cache-memory-principles-understanding-design-and-functionality/139286339"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "mcq",
+  "q": "Which replacement algorithm replaces the block in the set that has been in the cache longest with NO reference to it, and is the most popular?",
+  "opts": [
+   [
+    "A",
+    "FIFO"
+   ],
+   [
+    "B",
+    "LFU"
+   ],
+   [
+    "C",
+    "Least Recently Used (LRU)"
+   ],
+   [
+    "D",
+    "Random"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch4 Cache — https://quizlet.com/309564861/chapter-4-computer-memory-system-overview-cache-memory-flash-cards/"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "mcq",
+  "q": "Which replacement algorithm replaces the block with the fewest references using a counter on each line?",
+  "opts": [
+   [
+    "A",
+    "LRU"
+   ],
+   [
+    "B",
+    "FIFO"
+   ],
+   [
+    "C",
+    "Least Frequently Used (LFU)"
+   ],
+   [
+    "D",
+    "Random"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Tutorial 4 — https://www.studocu.com/my/document/universiti-malaya/computer-system-architecture/tutorial-4/61952186"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "mcq",
+  "q": "With the _____ write policy, updates are made only in the cache (minimizing memory writes), making parts of main memory invalid.",
+  "opts": [
+   [
+    "A",
+    "Write-through"
+   ],
+   [
+    "B",
+    "Write-back"
+   ],
+   [
+    "C",
+    "Write-once"
+   ],
+   [
+    "D",
+    "Read-only"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Cache Concepts — https://www.studocu.com/en-us/document/stanford-university/advanced-topics-in-computer-architecture-polymorphic-processors/organization-and-architecture-9/61474755"
+ },
+ {
+  "sec": "Ch5: Cache Memory Principles",
+  "type": "tf",
+  "q": "In a two-level cache, L1 is internal (on-chip) and usually split (instruction/data), while L2 is external/higher level and unified.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 4 — https://quizlet.com/130331190/cea201-unit-4-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "Which semiconductor memory is VOLATILE (loses data without power) and erased electrically at the byte level?",
+  "opts": [
+   [
+    "A",
+    "ROM"
+   ],
+   [
+    "B",
+    "PROM"
+   ],
+   [
+    "C",
+    "EPROM"
+   ],
+   [
+    "D",
+    "RAM (DRAM & SRAM)"
+   ]
+  ],
+  "ans": "D",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 — https://quizlet.com/60391972/cea201-unit-5-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "In _____, binary values are stored using flip-flop logic-gate configurations (6 transistors), whereas DRAM uses 1 capacitor + 1 transistor.",
+  "opts": [
+   [
+    "A",
+    "ROM"
+   ],
+   [
+    "B",
+    "SRAM"
+   ],
+   [
+    "C",
+    "DRAM"
+   ],
+   [
+    "D",
+    "Flash"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 multi — https://quizlet.com/130331280/cea201-unit-5-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "DRAM is simpler, smaller, denser, and cheaper than SRAM (used for main memory), whereas SRAM is faster and used for cache.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Ques10 SRAM vs DRAM — https://www.ques10.com/p/10049/compare-sram-dram-1/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "A _____ contains a permanent pattern of data wired in during fabrication, cannot be changed, and if one bit is wrong the whole batch is thrown away.",
+  "opts": [
+   [
+    "A",
+    "RAM"
+   ],
+   [
+    "B",
+    "SRAM"
+   ],
+   [
+    "C",
+    "ROM"
+   ],
+   [
+    "D",
+    "EEPROM"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 multi — https://quizlet.com/130331280/cea201-unit-5-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "Which nonvolatile memory is cheaper than ROM, written only ONCE electrically by the customer after fabrication, and needs special equipment?",
+  "opts": [
+   [
+    "A",
+    "PROM"
+   ],
+   [
+    "B",
+    "EPROM"
+   ],
+   [
+    "C",
+    "EEPROM"
+   ],
+   [
+    "D",
+    "DRAM"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Medium Internal Memory — https://medium.com/@ckekula/understanding-computer-internal-memory-ad894025dce0"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "How is an EPROM erased?",
+  "opts": [
+   [
+    "A",
+    "Electrically (byte-level)"
+   ],
+   [
+    "B",
+    "Electrically (block-level)"
+   ],
+   [
+    "C",
+    "UV light (chip-level)"
+   ],
+   [
+    "D",
+    "Cannot be erased"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Ebrary EPROM — https://ebrary.net/206226/computer_science/eprom_erasable_prom"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "With _____, a section of memory cells is erased electrically in a single action ('flash' / block-level), and it is intermediate between EPROM and EEPROM in cost.",
+  "opts": [
+   [
+    "A",
+    "Flash memory"
+   ],
+   [
+    "B",
+    "SDRAM"
+   ],
+   [
+    "C",
+    "DRAM"
+   ],
+   [
+    "D",
+    "PROM"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 multi — https://quizlet.com/130331280/cea201-unit-5-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "In _____ memory, DRAM chips are grouped into K banks that can service K read/write requests simultaneously.",
+  "opts": [
+   [
+    "A",
+    "Associative"
+   ],
+   [
+    "B",
+    "Interleaved"
+   ],
+   [
+    "C",
+    "Virtual"
+   ],
+   [
+    "D",
+    "Optical"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 — https://quizlet.com/60391972/cea201-unit-5-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "_____ are permanent physical defects (stuck at 0/1) from manufacturing/environmental abuse, whereas _____ are random nondestructive events from power supply problems.",
+  "opts": [
+   [
+    "A",
+    "Hard failures; Soft errors"
+   ],
+   [
+    "B",
+    "Soft errors; Hard failures"
+   ],
+   [
+    "C",
+    "Parity; CRC"
+   ],
+   [
+    "D",
+    "Misses; Hits"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 multi — https://quizlet.com/130331280/cea201-unit-5-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "The three methods for adding bits to detect single-bit errors are Parity Method, Cyclic Redundancy Check (CRC), and Hamming Code.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: TutorialsPoint Error Correction — https://www.tutorialspoint.com/article/what-is-error-correction"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "_____ moves data in and out under the control of the system clock without imposing wait states.",
+  "opts": [
+   [
+    "A",
+    "Asynchronous DRAM"
+   ],
+   [
+    "B",
+    "SDRAM (Synchronous DRAM)"
+   ],
+   [
+    "C",
+    "EPROM"
+   ],
+   [
+    "D",
+    "ROM"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 multi — https://quizlet.com/130331280/cea201-unit-5-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "_____ sends data twice per clock cycle using both the rising and falling edges of the clock.",
+  "opts": [
+   [
+    "A",
+    "CDRAM"
+   ],
+   [
+    "B",
+    "SDRAM"
+   ],
+   [
+    "C",
+    "DDR-SDRAM"
+   ],
+   [
+    "D",
+    "SRAM"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 multi — https://quizlet.com/130331280/cea201-unit-5-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "Cache DRAM (CDRAM) integrates a small SRAM cache (16 Kb) onto a generic DRAM chip to serve as a true cache or serial buffer.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 5 — https://quizlet.com/60391972/cea201-unit-5-flash-cards/"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "Reduction in surface defects, better stiffness, and better shock/damage resistance are benefits of using _____ on a magnetic disk.",
+  "opts": [
+   [
+    "A",
+    "Magnetic heads"
+   ],
+   [
+    "B",
+    "Aluminum alloy"
+   ],
+   [
+    "C",
+    "Glass substrate"
+   ],
+   [
+    "D",
+    "Optical laser"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 6 multi — https://quizlet.com/133384791/cea201-unit-6-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "Each disk surface consists of concentric rings called _____, and each of those consists of _____ separated by gaps.",
+  "opts": [
+   [
+    "A",
+    "Sectors; Tracks"
+   ],
+   [
+    "B",
+    "Tracks; Sectors"
+   ],
+   [
+    "C",
+    "Spindles; Platters"
+   ],
+   [
+    "D",
+    "Cylinders; Arms"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet COMP 7300 Ch6 — https://quizlet.com/844097451/comp-7300-chapter-6-external-memory-flash-cards/"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "A _____ disk has one read/write head per track, whereas a _____ disk has one read/write head per surface on a radial arm.",
+  "opts": [
+   [
+    "A",
+    "Movable-head; Fixed-head"
+   ],
+   [
+    "B",
+    "Fixed-head; Movable-head"
+   ],
+   [
+    "C",
+    "Winchester; Floppy"
+   ],
+   [
+    "D",
+    "Single-sided; Double-sided"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet COMP 7300 Ch6 — https://quizlet.com/844097451/comp-7300-chapter-6-external-memory-flash-cards/"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "Which head mechanism operates in sealed assemblies free of contaminants, closer to the disk surface, rising on spinning air pressure?",
+  "opts": [
+   [
+    "A",
+    "Contact (floppy)"
+   ],
+   [
+    "B",
+    "Fixed gap"
+   ],
+   [
+    "C",
+    "Aerodynamic gap (Winchester)"
+   ],
+   [
+    "D",
+    "Optical laser"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet COMP 7300 Ch6 — https://quizlet.com/844097451/comp-7300-chapter-6-external-memory-flash-cards/"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "Compared to HDDs (up to 55g operating / 350g non-operating), SSDs resist shocks up to:",
+  "opts": [
+   [
+    "A",
+    "100g"
+   ],
+   [
+    "B",
+    "350g"
+   ],
+   [
+    "C",
+    "1500g"
+   ],
+   [
+    "D",
+    "10g"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Dell / Studocu Ch7 Notes — https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/data-storage-backup-and-recovery/support-for-hard-disk-drive"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "The internal components of an SSD architecture are Interface, Controller, Addressing, Data buffer/ cache, Error correction, and Flash memory components.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Storage Devices — https://www.studocu.com/row/document/kenyatta-university/computer-programming/form-1-notes-storage-devices/168051058"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "What is the correct capacity order of Optical Discs from smallest to largest?",
+  "opts": [
+   [
+    "A",
+    "DVD < CD < Blu-ray"
+   ],
+   [
+    "B",
+    "CD (700 MB) < DVD (4.7-8.5 GB) < Blu-ray (25-128 GB)"
+   ],
+   [
+    "C",
+    "Blu-ray < DVD < CD"
+   ],
+   [
+    "D",
+    "CD < Blu-ray < DVD"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Storage Devices — https://www.studocu.com/row/document/kenyatta-university/computer-programming/form-1-notes-storage-devices/168051058"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "In _____ addressing (Operand = A), the operand is inside the instruction itself, used to initialize registers to a constant value.",
+  "opts": [
+   [
+    "A",
+    "Immediate"
+   ],
+   [
+    "B",
+    "Direct"
+   ],
+   [
+    "C",
+    "Indirect"
+   ],
+   [
+    "D",
+    "Stack"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 13 multi — https://quizlet.com/133385622/cea201-unit-13-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "In _____ addressing )EA = (A)(, the address field points to a memory location containing the effective address of the operand (used to implement pointers).",
+  "opts": [
+   [
+    "A",
+    "Direct"
+   ],
+   [
+    "B",
+    "Indirect"
+   ],
+   [
+    "C",
+    "Register"
+   ],
+   [
+    "D",
+    "Immediate"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch14 Addressing — https://quizlet.com/503607740/ch-14-instruction-sets-addressing-modes-and-formats-flash-cards/"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The advantages of _____ addressing (EA = R) are a small address field and no time-consuming memory references.",
+  "opts": [
+   [
+    "A",
+    "Direct"
+   ],
+   [
+    "B",
+    "Indirect"
+   ],
+   [
+    "C",
+    "Register"
+   ],
+   [
+    "D",
+    "Displacement"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 13 multi — https://quizlet.com/133385622/cea201-unit-13-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "_____ addressing )EA = A + (R)( combines direct and register indirect capabilities and includes Relative, Base-register, and Indexing.",
+  "opts": [
+   [
+    "A",
+    "Immediate"
+   ],
+   [
+    "B",
+    "Displacement"
+   ],
+   [
+    "C",
+    "Stack"
+   ],
+   [
+    "D",
+    "Implied"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA-Chap13 — https://quizlet.com/86502279/cea-chap13-flash-cards/"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "In _____ addressing )EA = A + (PC)(, the implicitly referenced register is the Program Counter (PC), used for branch instructions.",
+  "opts": [
+   [
+    "A",
+    "Base-register"
+   ],
+   [
+    "B",
+    "Relative"
+   ],
+   [
+    "C",
+    "Indexing"
+   ],
+   [
+    "D",
+    "Register indirect"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Ch14 Review — https://www.studocu.com/row/document/south-east-european-university/computer-architecture/chapter-xiv-instruction-sets-addressing-modes-and-formats/44778232"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "In _____ addressing, the referenced register holds a main memory base address and the address field holds a displacement (used for relocatable code & recursive procedures).",
+  "opts": [
+   [
+    "A",
+    "Indexing"
+   ],
+   [
+    "B",
+    "Base-register"
+   ],
+   [
+    "C",
+    "Relative"
+   ],
+   [
+    "D",
+    "Immediate"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Ch14 Addressing — https://quizlet.com/503607740/ch-14-instruction-sets-addressing-modes-and-formats-flash-cards/"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "_____ addressing operates on a LIFO queue where a register maintains the stack pointer (implied addressing on top of stack).",
+  "opts": [
+   [
+    "A",
+    "Direct"
+   ],
+   [
+    "B",
+    "Stack"
+   ],
+   [
+    "C",
+    "Relative"
+   ],
+   [
+    "D",
+    "Base-register"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Ch14 Review — https://www.studocu.com/row/document/south-east-european-university/computer-architecture/chapter-xiv-instruction-sets-addressing-modes-and-formats/44778232"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The value of the _____ field in the instruction format determines which addressing mode is to be used.",
+  "opts": [
+   [
+    "A",
+    "Opcode"
+   ],
+   [
+    "B",
+    "Mode"
+   ],
+   [
+    "C",
+    "Status"
+   ],
+   [
+    "D",
+    "Parity"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA Unit 13 — https://quizlet.com/86641740/cea-unit-13-flash-cards/"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Which 6 interrelated factors determine the allocation of addressing bits?",
+  "opts": [
+   [
+    "A",
+    "Number of addressing modes & Number of operands"
+   ],
+   [
+    "B",
+    "Register vs memory & Number of register sets"
+   ],
+   [
+    "C",
+    "Address range & Address granularity"
+   ],
+   [
+    "D",
+    "All of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 13 multi — https://quizlet.com/133385622/cea201-unit-13-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch14: Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Variable-length instructions provide variations compactly, but increase processor complexity because the next instruction length is unknown.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Studocu Ch14 Review — https://www.studocu.com/row/document/south-east-european-university/computer-architecture/chapter-xiv-instruction-sets-addressing-modes-and-formats/44778232"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "tf",
+  "q": "Inside the CPU, the four blocks of the ALU are Status Flags, Shifter, Complementer, and Arithmetic & Boolean Logic.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Medium COA Part 2 — https://medium.com/@ckekula/computer-architecture-for-beginners-part-2-ae5015f34876"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "_____ registers enable the assembly programmer to minimize main memory references by optimizing register use.",
+  "opts": [
+   [
+    "A",
+    "User-visible"
+   ],
+   [
+    "B",
+    "Control and status"
+   ],
+   [
+    "C",
+    "MBR"
+   ],
+   [
+    "D",
+    "I/OAR"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet OS Ch1 — https://quizlet.com/226936749/os-chapter-1-flash-cards/"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "The _____ contains status flags: Sign, Zero, Carry, Equal, Overflow, and Interrupt Enable/Disable.",
+  "opts": [
+   [
+    "A",
+    "MAR"
+   ],
+   [
+    "B",
+    "Program Status Word (PSW)"
+   ],
+   [
+    "C",
+    "IBR"
+   ],
+   [
+    "D",
+    "MQ"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Medium COA Part 2 — https://medium.com/@ckekula/computer-architecture-for-beginners-part-2-ae5015f34876"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "During the _____ cycle: PC -> MAR -> Address Bus -> Memory Read -> Data Bus -> MBR -> IR, and PC = PC + 1.",
+  "opts": [
+   [
+    "A",
+    "Indirect"
+   ],
+   [
+    "B",
+    "Interrupt"
+   ],
+   [
+    "C",
+    "Fetch"
+   ],
+   [
+    "D",
+    "Execute"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 2 — https://quizlet.com/159838675/cea201-unit-2-cea201-unit-4-cea201-unit-5-cea-201-unit-1-cea-201-unit-3-cea-201-unit-8-cea-201-unit-9-cea-201-unit-13-cea201-unit-7-cea201-unit-11-cea201-unit-12-cea201-unit-14-c-flash-cards/"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "During the _____ cycle, the right-most N bits of MBR are transferred to MAR to read the effective address of the operand into MBR.",
+  "opts": [
+   [
+    "A",
+    "Fetch"
+   ],
+   [
+    "B",
+    "Indirect"
+   ],
+   [
+    "C",
+    "Interrupt"
+   ],
+   [
+    "D",
+    "Halt"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: WordPress COA VI — https://techiefood4u.wordpress.com/wp-content/uploads/2019/12/cao_vi.pdf"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "During the _____ cycle, the PC is moved to MBR to be saved in memory (at a reserved address in MAR), and PC is loaded with the interrupt routine address.",
+  "opts": [
+   [
+    "A",
+    "Fetch"
+   ],
+   [
+    "B",
+    "Indirect"
+   ],
+   [
+    "C",
+    "Interrupt"
+   ],
+   [
+    "D",
+    "Decode"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: WordPress COA VI — https://techiefood4u.wordpress.com/wp-content/uploads/2019/12/cao_vi.pdf"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "A _____ hazard occurs when two or more instructions already in the pipeline need the same hardware resource at the same time.",
+  "opts": [
+   [
+    "A",
+    "Data"
+   ],
+   [
+    "B",
+    "Control"
+   ],
+   [
+    "C",
+    "Resource (Structural)"
+   ],
+   [
+    "D",
+    "Branch"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Adv Comp Arch — https://quizlet.com/552822799/advanced-computer-architecture-exam-3-flash-cards/"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "Which Data Hazard is 'true dependency' (an instruction modifies a register/memory and the next instruction reads it before the write finishes)?",
+  "opts": [
+   [
+    "A",
+    "Read After Write (RAW)"
+   ],
+   [
+    "B",
+    "Write After Read (WAR - antidependency)"
+   ],
+   [
+    "C",
+    "Write After Write (WAW - output dependency)"
+   ],
+   [
+    "D",
+    "RAR"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Data Hazards — https://quizlet.com/351965635/types-of-data-hazard-flash-cards/"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "tf",
+  "q": "Write After Read (WAR) is called antidependency, and Write After Write (WAW) is called output dependency.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Data Hazards — https://quizlet.com/351965635/types-of-data-hazard-flash-cards/"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "A _____ hazard (branch hazard) occurs when the pipeline makes a wrong decision on a branch prediction and must discard fetched instructions.",
+  "opts": [
+   [
+    "A",
+    "Resource"
+   ],
+   [
+    "B",
+    "Data"
+   ],
+   [
+    "C",
+    "Control"
+   ],
+   [
+    "D",
+    "Structural"
+   ]
+  ],
+  "ans": "C",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Vaia Pipeline Hazards — https://www.vaia.com/en-us/explanations/computer-science/computer-organisation-and-architecture/pipeline-hazards/"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "Which branch technique uses a small, fast memory in the instruction fetch stage to store loop instructions without accessing main memory?",
+  "opts": [
+   [
+    "A",
+    "Multiple streams"
+   ],
+   [
+    "B",
+    "Loop buffer"
+   ],
+   [
+    "C",
+    "Delayed branch"
+   ],
+   [
+    "D",
+    "Prefetch branch target"
+   ]
+  ],
+  "ans": "B",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 14 multi — https://quizlet.com/133385666/cea201-unit-14-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "Which branch technique fetches instructions from more than one possible branch path at the same time?",
+  "opts": [
+   [
+    "A",
+    "Multiple streams"
+   ],
+   [
+    "B",
+    "Loop buffer"
+   ],
+   [
+    "C",
+    "Delayed branch"
+   ],
+   [
+    "D",
+    "Static branch"
+   ]
+  ],
+  "ans": "A",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet CEA201 Unit 14 multi — https://quizlet.com/133385666/cea201-unit-14-multi-flash-cards/"
+ },
+ {
+  "sec": "Ch16: Processor Structure and Function",
+  "type": "mcq",
+  "q": "In _____ branch, the processor always executes the instruction immediately after the branch (the delay slot) before the branch takes effect.",
+  "opts": [
+   [
+    "A",
+    "Multiple streams"
+   ],
+   [
+    "B",
+    "Prefetch branch target"
+   ],
+   [
+    "C",
+    "Loop buffer"
+   ],
+   [
+    "D",
+    "Delayed branch"
+   ]
+  ],
+  "ans": "D",
+  "origin": "bank",
+  "note": "",
+  "ref": "Source in the file: Quizlet Pipeline — https://quizlet.com/108142741/computer-achitechure-pipeline-flash-cards/"
+ }
+]
