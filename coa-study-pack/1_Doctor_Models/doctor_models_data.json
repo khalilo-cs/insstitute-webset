@@ -1,0 +1,10913 @@
+[
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "A computer is a complex system.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "A computer organization does not need to be designed to implement a particular architectural specification.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "Computer organization refers to attributes of a system visible to the programmer.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "Changes in computer technology are finally slowing down.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "Both the structure and functioning of a computer are, in essence, simple.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "The number of bits used to represent various data types is an example of an architectural attribute.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "Interfaces between the computer and peripherals is an example of an organizational attribute.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "Historically the distinction between architecture and organization has not been an important one.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "A particular architecture may span many years and encompass a number of different computer models, its organization changing with changing technology.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "A microcomputer architecture and organization relationship is not very close.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "Changes in technology not only influence organization but also result in the introduction of more powerful and more complex architectures.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "The hierarchical nature of complex systems is essential to both their design and their description.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "Both the structure and functioning of a computer are, in essence, simple.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "A computer must be able to process, store, move, and control data.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "tf",
+  "q": "When data are moved over longer distances, to or from a remote device, the process is known as data transport.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "Computer technology is changing at a __________ pace.",
+  "opts": [
+   [
+    "A",
+    "slow"
+   ],
+   [
+    "B",
+    "slow to medium"
+   ],
+   [
+    "C",
+    "rapid"
+   ],
+   [
+    "D",
+    "non-existent"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "Computer _________ refers to those attributes that have a direct impact on the logical execution of a program.",
+  "opts": [
+   [
+    "A",
+    "organization"
+   ],
+   [
+    "B",
+    "specifics"
+   ],
+   [
+    "C",
+    "design"
+   ],
+   [
+    "D",
+    "architecture"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "Architectural attributes include __________.",
+  "opts": [
+   [
+    "A",
+    "I/O mechanisms"
+   ],
+   [
+    "B",
+    "control signals"
+   ],
+   [
+    "C",
+    "interfaces"
+   ],
+   [
+    "D",
+    "memory technology used"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "_________ attributes include hardware details transparent to the programmer.",
+  "opts": [
+   [
+    "A",
+    "Interface"
+   ],
+   [
+    "B",
+    "Organizational"
+   ],
+   [
+    "C",
+    "Memory"
+   ],
+   [
+    "D",
+    "Architectural"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "It is a(n) _________ design issue whether a computer will have a multiply instruction.",
+  "opts": [
+   [
+    "A",
+    "architectural"
+   ],
+   [
+    "B",
+    "memory"
+   ],
+   [
+    "C",
+    "elementary"
+   ],
+   [
+    "D",
+    "organizational"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "It is a(n) _________ issue whether the multiply instruction will be implemented by a special multiply unit or by a mechanism that makes repeated use of the add unit of the system.",
+  "opts": [
+   [
+    "A",
+    "architectural"
+   ],
+   [
+    "B",
+    "memory"
+   ],
+   [
+    "C",
+    "mechanical"
+   ],
+   [
+    "D",
+    "organizational"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "A __________ system is a set of interrelated subsystems.",
+  "opts": [
+   [
+    "A",
+    "secondary"
+   ],
+   [
+    "B",
+    "hierarchical"
+   ],
+   [
+    "C",
+    "complex"
+   ],
+   [
+    "D",
+    "functional"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "An I/O device is referred to as a __________.",
+  "opts": [
+   [
+    "A",
+    "CPU"
+   ],
+   [
+    "B",
+    "control device"
+   ],
+   [
+    "C",
+    "peripheral"
+   ],
+   [
+    "D",
+    "register"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "When data are moved over longer distances, to or from a remote device, the process is known as __________.",
+  "opts": [
+   [
+    "A",
+    "data communications"
+   ],
+   [
+    "B",
+    "registering"
+   ],
+   [
+    "C",
+    "structuring"
+   ],
+   [
+    "D",
+    "data transport"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "The _________ stores data.",
+  "opts": [
+   [
+    "A",
+    "system bus"
+   ],
+   [
+    "B",
+    "I/O"
+   ],
+   [
+    "C",
+    "main memory"
+   ],
+   [
+    "D",
+    "control unit"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "The __________ moves data between the computer and its external environment.",
+  "opts": [
+   [
+    "A",
+    "data transport"
+   ],
+   [
+    "B",
+    "I/O"
+   ],
+   [
+    "C",
+    "register"
+   ],
+   [
+    "D",
+    "CPU interconnection"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "A common example of system interconnection is by means of a __________.",
+  "opts": [
+   [
+    "A",
+    "register"
+   ],
+   [
+    "B",
+    "system bus"
+   ],
+   [
+    "C",
+    "data transport"
+   ],
+   [
+    "D",
+    "control device"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "A _________ is a mechanism that provides for communication among CPU, main memory, and I/O.",
+  "opts": [
+   [
+    "A",
+    "system interconnection"
+   ],
+   [
+    "B",
+    "CPU interconnection"
+   ],
+   [
+    "C",
+    "peripheral"
+   ],
+   [
+    "D",
+    "processor"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "_________ provide storage internal to the CPU.",
+  "opts": [
+   [
+    "A",
+    "Control units"
+   ],
+   [
+    "B",
+    "ALUs"
+   ],
+   [
+    "C",
+    "Main memory"
+   ],
+   [
+    "D",
+    "Registers"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "mcq",
+  "q": "The __________ performs the computer’s data processing functions.",
+  "opts": [
+   [
+    "A",
+    "Register"
+   ],
+   [
+    "B",
+    "CPU interconnection"
+   ],
+   [
+    "C",
+    "ALU"
+   ],
+   [
+    "D",
+    "system bus"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Year by year the cost of computer systems continues to rise.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Processors are so inexpensive that we now have microprocessors we throw away.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Workstation systems cannot support highly sophisticated engineering and scientific applications.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "The IAS is the prototype of all subsequent general-purpose computers.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Cloud service providers use massive high-performance banks of for a servers to satisfy high-volume,high-transaction-rate applications broad spectrum of clients.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "The raw speed of the microprocessor will not achieve its potential unless it is fed a constant stream of work to do in the form of computer instructions.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Superscalar execution is the same principle as seen in an assembly line.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Branch prediction potentially increases the amount of work available for the processor to execute.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Raw speed is far more important than how a processor performs when executing a given application.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "The cache holds recently accessed data.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Operations performed by a processor, such as fetching an instruction, decoding the instruction, performing an arithmetic operation, and so on, are governed by a system clock.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "A common measure of performance for a processor is the rate at which instructions are executed, expressed as millions of instructions per second (MIPS).",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Designers wrestle with the challenge of balancing processor performance with that of main memory and other computer components.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "A straight comparison of clock speeds on different processors tells the whole story about performance.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "tf",
+  "q": "Measures such as MIPS and MFLOPS have proven adequate to evaluating the performanceof processors.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "Multiple parallel pipelines are used in __________.",
+  "opts": [
+   [
+    "A",
+    "speculative execution"
+   ],
+   [
+    "B",
+    "data flow analysis"
+   ],
+   [
+    "C",
+    "superscalar execution"
+   ],
+   [
+    "D",
+    "branch prediction"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "The desktop application(s) that require the great power of today’s microprocessor- based systems include___________.",
+  "opts": [
+   [
+    "A",
+    "image processing"
+   ],
+   [
+    "B",
+    "speech recognition"
+   ],
+   [
+    "C",
+    "videoconferencing"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "___________ potentially increases the amount of work available for the processor to execute.",
+  "opts": [
+   [
+    "A",
+    "Branch prediction"
+   ],
+   [
+    "B",
+    "Performance balance"
+   ],
+   [
+    "C",
+    "Pipelining"
+   ],
+   [
+    "D",
+    "BIPS"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "The interface between processor and ___________ is the most crucial pathway in the entire computer because it is responsible for carrying a constant flow of program instructions and data between memory chips and the processor.",
+  "opts": [
+   [
+    "A",
+    "main memory"
+   ],
+   [
+    "B",
+    "pipeline"
+   ],
+   [
+    "C",
+    "clock speed"
+   ],
+   [
+    "D",
+    "control unit"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "The __________ is a relatively small fast memory interposed between a larger, slower memory and the logic that accesses the larger memory.",
+  "opts": [
+   [
+    "A",
+    "peripheral"
+   ],
+   [
+    "B",
+    "cache"
+   ],
+   [
+    "C",
+    "processor"
+   ],
+   [
+    "D",
+    "arithmetic and logic unit"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "An increase in clock rate means that individual operations are executed _____.",
+  "opts": [
+   [
+    "A",
+    "the same"
+   ],
+   [
+    "B",
+    "slower"
+   ],
+   [
+    "C",
+    "with very little change"
+   ],
+   [
+    "D",
+    "more rapidly"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "A __________ is a core designed to perform parallel operations on graphics data.",
+  "opts": [
+   [
+    "A",
+    "MIC"
+   ],
+   [
+    "B",
+    "ALU"
+   ],
+   [
+    "C",
+    "GPU"
+   ],
+   [
+    "D",
+    "PGD"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "A(n) __________ Mean is a good candidate for comparing the execution time performance of several systems.",
+  "opts": [
+   [
+    "A",
+    "Composite"
+   ],
+   [
+    "B",
+    "Arithmetic"
+   ],
+   [
+    "C",
+    "Harmonic"
+   ],
+   [
+    "D",
+    "Evaluation"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "__________ law deals with the potential speedup of a program using multiple processors compared to a single processor.",
+  "opts": [
+   [
+    "A",
+    "Moore’s"
+   ],
+   [
+    "B",
+    "Amdahl’s"
+   ],
+   [
+    "C",
+    "Little’s"
+   ],
+   [
+    "D",
+    "Murphy’s"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "One increment, or pulse, of a clock is referred to as a __________.",
+  "opts": [
+   [
+    "A",
+    "clock cycle"
+   ],
+   [
+    "B",
+    "clock rate"
+   ],
+   [
+    "C",
+    "clock speed"
+   ],
+   [
+    "D",
+    "cycle time"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "The use of multiple processors on the same chip is referred to as __________ and provides the potential to increase performance without increasing the clock rate.",
+  "opts": [
+   [
+    "A",
+    "multicore"
+   ],
+   [
+    "B",
+    "GPU"
+   ],
+   [
+    "C",
+    "data channels"
+   ],
+   [
+    "D",
+    "MPC"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "With respect to changes in values, the __________ Mean gives equal weight to all of the values in the data set.",
+  "opts": [
+   [
+    "A",
+    "Harmonic"
+   ],
+   [
+    "B",
+    "Arithmetic"
+   ],
+   [
+    "C",
+    "Composite"
+   ],
+   [
+    "D",
+    "Geometric"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "The __________ measures the ability of a computer to complete a single task.",
+  "opts": [
+   [
+    "A",
+    "clock speed"
+   ],
+   [
+    "B",
+    "speed metric"
+   ],
+   [
+    "C",
+    "execute cycle"
+   ],
+   [
+    "D",
+    "cycle time"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "A measurement of how many tasks a computer can accomplish in a certain amount of time is called a(n) __________.",
+  "opts": [
+   [
+    "A",
+    "real-time system"
+   ],
+   [
+    "B",
+    "application analysis"
+   ],
+   [
+    "C",
+    "cycle speed"
+   ],
+   [
+    "D",
+    "throughput"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "mcq",
+  "q": "The best known of the SPEC benchmark suites is __________.",
+  "opts": [
+   [
+    "A",
+    "SPEC CPU2006"
+   ],
+   [
+    "B",
+    "SPECjvm2008"
+   ],
+   [
+    "C",
+    "SPECsfs2008"
+   ],
+   [
+    "D",
+    "SPEC SC2013"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "At a top level, a computer consists of CPU, memory, and I/O components.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "The basic function of a computer is to execute programs.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "Program execution consists of repeating the process of instruction fetch and instruction execution.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "Interrupts do not improve processing efficiency.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "An I/O module cannot exchange data directly with the processor.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "A key characteristic of a bus is that it is not a shared transmission medium.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "Computer systems contain a number of different buses that provide pathways between components at various levels of the computer system hierarchy.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "In general, the more devices attached to the bus, the greater the bus length and hence the greater the propagation delay.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "It is not possible to connect I/O controllers directly onto the system bus.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "The method of using the same lines for multiple purposes is known as time multiplexing.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "Timing refers to the way in which events are coordinated on the bus.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "With asynchronous timing the occurrence of events on the bus is determined by a clock.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "Because all devices on a synchronous bus are tied to a fixed clock rate, the system cannot take advantage of advances in device performance.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "The unit of transfer at the link layer is a phit and the unit transfer at the physical layer is a flit.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "tf",
+  "q": "A key requirement for PCIe is high capacity to support the needs ofhigher data rate I/O devices such as Gigabit Ethernet.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "Virtually all contemporary computer designs are based on concepts developed by __________ at the Institute for Advanced Studies, Princeton.",
+  "opts": [
+   [
+    "A",
+    "John Maulchy"
+   ],
+   [
+    "B",
+    "John von Neumann"
+   ],
+   [
+    "C",
+    "Herman Hollerith"
+   ],
+   [
+    "D",
+    "John Eckert"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "The von Neumann architecture is based on which concept?",
+  "opts": [
+   [
+    "A",
+    "data and instructions are stored in a single read-write memory"
+   ],
+   [
+    "B",
+    "the contents of this memory are addressable by location"
+   ],
+   [
+    "C",
+    "execution occurs in a sequential fashion"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "A sequence of codes or instructions is called __________.",
+  "opts": [
+   [
+    "A",
+    "software"
+   ],
+   [
+    "B",
+    "memory"
+   ],
+   [
+    "C",
+    "an interconnect"
+   ],
+   [
+    "D",
+    "a register"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "The processing required for a single instruction is called a(n) __________ cycle.",
+  "opts": [
+   [
+    "A",
+    "execute"
+   ],
+   [
+    "B",
+    "fetch"
+   ],
+   [
+    "C",
+    "instruction"
+   ],
+   [
+    "D",
+    "packet"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "A(n) _________ is generated by a failure such as power failure or memory parity error.",
+  "opts": [
+   [
+    "A",
+    "I/O interrupt"
+   ],
+   [
+    "B",
+    "hardware failure interrupt"
+   ],
+   [
+    "C",
+    "timer interrupt"
+   ],
+   [
+    "D",
+    "program interrupt"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "A(n) _________ is generated by some condition that occurs as a result of an instruction execution.",
+  "opts": [
+   [
+    "A",
+    "timer interrupt"
+   ],
+   [
+    "B",
+    "I/O interrupt"
+   ],
+   [
+    "C",
+    "program interrupt"
+   ],
+   [
+    "D",
+    "hardware failure interrupt"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "The interconnection structure must support which transfer?",
+  "opts": [
+   [
+    "A",
+    "memory to processor"
+   ],
+   [
+    "B",
+    "processor to memory"
+   ],
+   [
+    "C",
+    "I/O to or from memory"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "A bus that connects major computer components (processor, memory, I/O) is called a __________.",
+  "opts": [
+   [
+    "A",
+    "system bus"
+   ],
+   [
+    "B",
+    "address bus"
+   ],
+   [
+    "C",
+    "data bus"
+   ],
+   [
+    "D",
+    "control bus"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "The __________ are used to designate the source or destination of the data on the data bus.",
+  "opts": [
+   [
+    "A",
+    "system lines"
+   ],
+   [
+    "B",
+    "data lines"
+   ],
+   [
+    "C",
+    "control lines"
+   ],
+   [
+    "D",
+    "address lines"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "The data lines provide a path for moving data among system modules and are collectively called the _________.",
+  "opts": [
+   [
+    "A",
+    "control bus"
+   ],
+   [
+    "B",
+    "address bus"
+   ],
+   [
+    "C",
+    "data bus"
+   ],
+   [
+    "D",
+    "system bus"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "A __________ is the high-level set of rules for exchanging packets of data between devices.",
+  "opts": [
+   [
+    "A",
+    "bus"
+   ],
+   [
+    "B",
+    "protocol"
+   ],
+   [
+    "C",
+    "packet"
+   ],
+   [
+    "D",
+    "QPI"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "Each data path consists of a pair of wires (referred to as a __________ ) that transmits data one bit at a time.",
+  "opts": [
+   [
+    "A",
+    "lane"
+   ],
+   [
+    "B",
+    "path"
+   ],
+   [
+    "C",
+    "line"
+   ],
+   [
+    "D",
+    "bus"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "The _________ receives read and write requests from the software above the TL and creates request packets for transmission to a destination via the link layer.",
+  "opts": [
+   [
+    "A",
+    "transaction layer"
+   ],
+   [
+    "B",
+    "root layer"
+   ],
+   [
+    "C",
+    "configuration layer"
+   ],
+   [
+    "D",
+    "transport layer"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "The TL supports which of the following address spaces?",
+  "opts": [
+   [
+    "A",
+    "memory"
+   ],
+   [
+    "B",
+    "I/O"
+   ],
+   [
+    "C",
+    "message"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "mcq",
+  "q": "The QPI _________ layer is used to determine the course that a packet will traverse across the available system interconnects.",
+  "opts": [
+   [
+    "A",
+    "link"
+   ],
+   [
+    "B",
+    "protocol"
+   ],
+   [
+    "C",
+    "routing"
+   ],
+   [
+    "D",
+    "physical"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "No single technology is optimal in satisfying the memory requirements for a computer system.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "A typical computer system is equipped with a hierarchy of memory subsystems, some internal to the system and some external.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "External memory is often equated with main memory.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "The processor requires its own local memory.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "Cache is not a form of internal memory.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "The unit of transfer must equal a word or an addressable unit.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "Both sequential access and direct access involve a shared read- write mechanism.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "In a volatile memory, information decays naturally or is lost when electrical power is switched off.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "To achieve greatest performance the memory must be able to keep up with the processor.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "Secondary memory is used to store program and data files and is usually visible to the programmer only in terms of individual bytes or words.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "The L1 cache is slower than the L3 cache.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "With write back updates are made only in the cache.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "It has become possible to have a cache on the same chip as the processor.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "All of the Pentium processors include two on-chip L1 caches, one for data and one for instructions.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "tf",
+  "q": "Cache design for HPC is the same as that for other hardware platforms and applications.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "__________ refers to whether memory is internal or external to the computer.",
+  "opts": [
+   [
+    "A",
+    "Location"
+   ],
+   [
+    "B",
+    "Access"
+   ],
+   [
+    "C",
+    "Hierarchy"
+   ],
+   [
+    "D",
+    "Tag"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "Internal memory capacity is typically expressed in terms of _________.",
+  "opts": [
+   [
+    "A",
+    "hertz"
+   ],
+   [
+    "B",
+    "nanos"
+   ],
+   [
+    "C",
+    "bytes"
+   ],
+   [
+    "D",
+    "LOR"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "For internal memory, the __________ is equal to the number of electrical lines into and out of the memory module.",
+  "opts": [
+   [
+    "A",
+    "access time"
+   ],
+   [
+    "B",
+    "unit of transfer"
+   ],
+   [
+    "C",
+    "capacity"
+   ],
+   [
+    "D",
+    "memory ratio"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "“Memory is organized into records and access must be made in a specific linear sequence” is a description of __________.",
+  "opts": [
+   [
+    "A",
+    "sequential access"
+   ],
+   [
+    "B",
+    "direct access"
+   ],
+   [
+    "C",
+    "random access"
+   ],
+   [
+    "D",
+    "associative access"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "individual blocks or records have a unique address based on physical location with __________.",
+  "opts": [
+   [
+    "A",
+    "associative"
+   ],
+   [
+    "B",
+    "physical access access"
+   ],
+   [
+    "C",
+    "direct access"
+   ],
+   [
+    "D",
+    "sequential access"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "For random-access memory, __________ is the time from the instant that an address is presented to the memory to the instant that data have been stored or made available for use.",
+  "opts": [
+   [
+    "A",
+    "memory cycle time"
+   ],
+   [
+    "B",
+    "direct access"
+   ],
+   [
+    "C",
+    "transfer rate"
+   ],
+   [
+    "D",
+    "access time"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "The ________ consists of the access time plus any additional time required before a second access can commence.",
+  "opts": [
+   [
+    "A",
+    "latency"
+   ],
+   [
+    "B",
+    "memory cycle time"
+   ],
+   [
+    "C",
+    "direct access"
+   ],
+   [
+    "D",
+    "transfer rate"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "A portion of main memory used as a buffer to hold data temporarily that is to be read out to disk is referred to as a _________.",
+  "opts": [
+   [
+    "A",
+    "disk cache"
+   ],
+   [
+    "B",
+    "latency"
+   ],
+   [
+    "C",
+    "virtual address"
+   ],
+   [
+    "D",
+    "miss"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "A line includes a _________ that identifies which particular block is currently being stored.",
+  "opts": [
+   [
+    "A",
+    "cache"
+   ],
+   [
+    "B",
+    "hit"
+   ],
+   [
+    "C",
+    "tag"
+   ],
+   [
+    "D",
+    "locality"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "__________ is the simplest mapping technique and maps each block of main memory into only one possible cache line.",
+  "opts": [
+   [
+    "A",
+    "Direct mapping"
+   ],
+   [
+    "B",
+    "Associative mapping"
+   ],
+   [
+    "C",
+    "Set associative mapping"
+   ],
+   [
+    "D",
+    "None of the above"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "When using the __________ technique all write operations made to main memory are made to the cache as well.",
+  "opts": [
+   [
+    "A",
+    "write back"
+   ],
+   [
+    "B",
+    "LRU"
+   ],
+   [
+    "C",
+    "write through"
+   ],
+   [
+    "D",
+    "unified cache"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "The key advantage of the __________ design is that it eliminates contention for the cache between the instruction fetch/decode unit and the execution unit.",
+  "opts": [
+   [
+    "A",
+    "logical cache"
+   ],
+   [
+    "B",
+    "split cache"
+   ],
+   [
+    "C",
+    "unified cache"
+   ],
+   [
+    "D",
+    "physical cache"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "The Pentium 4 _________ component executes micro-operations, fetching the required data from the L1 data cache and temporarily storing results in registers.",
+  "opts": [
+   [
+    "A",
+    "fetch/decode unit"
+   ],
+   [
+    "B",
+    "out-of-order execution logic"
+   ],
+   [
+    "C",
+    "execution unit"
+   ],
+   [
+    "D",
+    "memory subsystem"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "In reference to access time to a two-level memory, a _________ occurs if an accessed word is not found in the faster memory.",
+  "opts": [
+   [
+    "A",
+    "miss"
+   ],
+   [
+    "B",
+    "hit"
+   ],
+   [
+    "C",
+    "line"
+   ],
+   [
+    "D",
+    "tag"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "mcq",
+  "q": "A logical cache stores data using __________.",
+  "opts": [
+   [
+    "A",
+    "physical addresses"
+   ],
+   [
+    "B",
+    "virtual addresses"
+   ],
+   [
+    "C",
+    "random addresses"
+   ],
+   [
+    "D",
+    "none of the above"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "_____ refers to those attributes of a system visible to a programmer.",
+  "opts": [],
+  "ans": "Computer architecture",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "_____ refers to the operational units and their interconnections that realize the architectural specifications.",
+  "opts": [],
+  "ans": "Computer organization",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "Control signals, interfaces between the computer and peripherals, and the memory technology used are all examples of _____ attributes.",
+  "opts": [],
+  "ans": "organizational",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "The instruction set, the number of bits used to represent various data types, I/O mechanisms and techniques for addressing memory are all examples of _____ attributes.",
+  "opts": [],
+  "ans": "architectural",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "The _____ architecture is the architecture of IBM's mainframe product line.",
+  "opts": [],
+  "ans": "System/370",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "_____ is the way in which the components are interrelated.",
+  "opts": [],
+  "ans": "Structure",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "_____ is the operation of each individual component as part of the structure.",
+  "opts": [],
+  "ans": "Function",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "The basic functions that a computer can perform are: data processing, data movement, control, and _____.",
+  "opts": [],
+  "ans": "data storage",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "When data are received from or delivered to a device that is directly connected to the computer, the process is known as _____.",
+  "opts": [],
+  "ans": "input/output (I/O)",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "The four main structural components of the computer are: main memory, I/O, system interconnection, and _____.",
+  "opts": [],
+  "ans": "CPU",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "Often referred to as a processor, the _____ controls the operation of the computer and performs its data processing functions.",
+  "opts": [],
+  "ans": "CPU",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "A common example of system interconnection is by means of a _____, consisting of a number of conducting wires to which all the other components attach.",
+  "opts": [],
+  "ans": "system bus",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "The major structural components of the CPU are: control unit, register, CPU interconnection, and _____.",
+  "opts": [],
+  "ans": "ALU",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "A _____ control unit operates by executing microinstructions that define the functionality of the control unit.",
+  "opts": [],
+  "ans": "microprogrammed",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 1: Basic Concepts and Computer Evolution",
+  "type": "fib",
+  "q": "The _____ controls the operation of the CPU and hence the computer.",
+  "opts": [],
+  "ans": "control unit",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "_____ enables a processor to work simultaneously on multiple instructions by performing a different phase for each of the multiple instructions at the same time.",
+  "opts": [],
+  "ans": "Pipelining",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "_____ is the ability to issue more than one instruction in every processor clock cycle.",
+  "opts": [],
+  "ans": "Superscalar execution",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "_____: the processor looks ahead in the instruction code fetched from memory and predicts which branches, or groups of instructions, are likely to be processed next.",
+  "opts": [],
+  "ans": "Branch prediction",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "_____ enables the processor to keep its execution engines as busy as possible by executing instructions that are likely to be needed.",
+  "opts": [],
+  "ans": "Speculative execution",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "Traditionally found on a plug-in graphics card, a _____ is used to encode and render 2D and 3D graphics as well as process video.",
+  "opts": [],
+  "ans": "GPU",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "_____ Law applies to a queuing system.",
+  "opts": [],
+  "ans": "Little's",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "The three common formulas used for calculating a mean are arithmetic, harmonic, and _____.",
+  "opts": [],
+  "ans": "geometric",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "The _____ Mean used for a time-based variable, such as program execution time, has the important property that it is directly proportional to the total time.",
+  "opts": [],
+  "ans": "Arithmetic",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "The _____ Mean is preferred when calculating rates.",
+  "opts": [],
+  "ans": "Harmonic",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "The _____ Mean gives consistent results regardless of which system is used as a reference.",
+  "opts": [],
+  "ans": "geometric",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "_____ metrics are required for all reported results and have strict guidelines for compilation.",
+  "opts": [],
+  "ans": "Base",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "A _____ suite is a collection of programs, defined in a high-level language, that together attempt to provide a representative test of a computer in a particular application or system programming area.",
+  "opts": [],
+  "ans": "benchmark",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "At the most fundamental level, the speed of a processor is dictated by the pulse frequency produced by the clock, measured in cycles per second, or _____.",
+  "opts": [],
+  "ans": "Hertz",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "The best-known collection of benchmark suites is defined and maintained by an industry consortium known as _____.",
+  "opts": [],
+  "ans": "SPEC",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 2: Performance Issues",
+  "type": "fib",
+  "q": "_____ law deals with the potential speedup of a program using multiple processors compared to a single processor.",
+  "opts": [],
+  "ans": "Amdahl's",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "A _____ register specifies the address in memory for the next read or write.",
+  "opts": [],
+  "ans": "memory address (MAR)",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "A _____ register contains the data to be written into memory or receives the data read from memory.",
+  "opts": [],
+  "ans": "memory buffer (MBR)",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "The most common classes of interrupts are: program, timer, I/O and _____.",
+  "opts": [],
+  "ans": "hardware failure",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "A(n) _____ interrupt is generated by a timer within the processor and allows the operating system to perform certain functions on a regular basis.",
+  "opts": [],
+  "ans": "timer",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "A(n) _____ interrupt is generated by an I/O controller to signal normal completion of an operation, request service from the processor, or to signal a variety of error conditions.",
+  "opts": [],
+  "ans": "I/O",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "A _____ interrupt simply means that the processor can and will ignore that interrupt request signal.",
+  "opts": [],
+  "ans": "disabled",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "The collection of paths connecting the various modules is called the _____ structure.",
+  "opts": [],
+  "ans": "interconnection",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "A _____ is a communication pathway connecting two or more devices.",
+  "opts": [],
+  "ans": "bus",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "The _____ lines are used to control the access to and the use of the data and address lines.",
+  "opts": [],
+  "ans": "control",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "There are three important groups of DLLPs used in managing a link: flow control packets, _____, and TLP ACK and NAK packets.",
+  "opts": [],
+  "ans": "power management packets",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "The purpose of the PCIe _____ layer is to ensure reliable delivery of packets across the PCIe link.",
+  "opts": [],
+  "ans": "data link",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "With _____ transmission, signals are transmitted as a current that travels down one conductor and returns on the other.",
+  "opts": [],
+  "ans": "balanced",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "The QPI link layer performs two key functions: flow control and _____ control.",
+  "opts": [],
+  "ans": "error",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "The _____ is a popular high-bandwidth, processor-independent bus that can function as a mezzanine or peripheral bus.",
+  "opts": [],
+  "ans": "PCI",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 3: A Top-Level View of Computer Function and Interconnection",
+  "type": "fib",
+  "q": "The _____ function is needed to ensure that a sending QPI entity does not overwhelm a receiving QPI entity by sending data faster than the receiver can process the data and clear buffers for more incoming data.",
+  "opts": [],
+  "ans": "flow control",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "_____ memory consists of peripheral storage devices, such as disk and tape.",
+  "opts": [],
+  "ans": "External",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "One byte equals _____ bits.",
+  "opts": [],
+  "ans": "8",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "From a user's point of view the two most important characteristics of memory are capacity and _____.",
+  "opts": [],
+  "ans": "performance",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "The three performance parameters for memory are: access time, transfer rate, and _____.",
+  "opts": [],
+  "ans": "memory cycle time",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "_____ is a random access type of memory that enables one to make a comparison of desired bit locations within a word for a specified match, and to do this for all words simultaneously, thus retrieving a word based on a portion of its contents rather than its address.",
+  "opts": [],
+  "ans": "Associative memory",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "The _____ rate is the rate at which data can be transferred into or out of a memory unit.",
+  "opts": [],
+  "ans": "transfer",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "The most commonly used physical types of memory are: semiconductor memory, _____ memory (used for disk and tape), and optical and magneto-optical.",
+  "opts": [],
+  "ans": "magnetic surface",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "The three key characteristics of memory are capacity, access time, and _____.",
+  "opts": [],
+  "ans": "cost",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "External, nonvolatile memory is referred to as _____ or auxiliary memory.",
+  "opts": [],
+  "ans": "secondary",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "The cache consists of blocks called _____.",
+  "opts": [],
+  "ans": "lines",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "_____ computing deals with super computers and their software.",
+  "opts": [],
+  "ans": "High-performance",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "The Pentium 4 processor core consists of four major components: fetch/decode unit, out-of-order execution logic, memory subsystem, and _____.",
+  "opts": [],
+  "ans": "execution units",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "The _____ units execute micro-operations, fetching the required data from the L1 data cache and temporarily storing results in registers.",
+  "opts": [],
+  "ans": "execution",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "_____ memory is a facility that allows programs to address memory from a logical point of view, without regard to the amount of main memory physically available.",
+  "opts": [],
+  "ans": "Virtual",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Chapter 4: Cache Memory & Memory Characteristics",
+  "type": "fib",
+  "q": "For set-associative mapping the cache control logic interprets a memory address as three fields: Set, Word, and _____.",
+  "opts": [],
+  "ans": "Tag",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "There is a tremendous variety of products, from single-chip microcomputers costing a few dollars to supercomputers costing tens of millions of dollars that can rightly claim the name \"computer\".",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q1"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "The variety of computer products is exhibited only in cost.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q2"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "The textbook for this course is about the structure and function of computers.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q5"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "The world's first general-purpose electronic digital computer was designed and constructed at The Ohio State University.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q31"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "John Mauchly and John Eckert designed the ENIAC.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q32"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "The major drawback of the EDVAC was that it had to be programmed manually by setting switches and plugging and unplugging cables.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q33"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "The IAS operates by repetitively performing an instruction cycle.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q35"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "Backward compatible means that the programs written for the older machines can be executed on the new machine.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q36"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "A vacuum tube is a solid-state device made from silicon.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q37"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "Computers are classified into generations based on the fundamental hardware technology employed.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q38"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "System software was introduced in the third generation of computers.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q39"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "A wafer is made of silicon and is broken up into chips which consists of many gates and/or memory cells plus a number of input and output attachment points.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q40"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "IBM's System/360 was the industry's first planned family of computers.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q41"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "Intel's 4004 was the first chip to contain all of the components of a CPU on a single chip.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q42"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "The Intel x86 evolved from RISC design principles and is used in embedded systems.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q44"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "tf",
+  "q": "A common measure of performance for a processor is the rate at which instructions are executed, expressed as billions of instructions per seconds (BIPS).",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q45"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "The _________ was the world's first general-purpose electronic digital computer.",
+  "opts": [
+   [
+    "A",
+    "UNIVAC"
+   ],
+   [
+    "B",
+    "MARK IV"
+   ],
+   [
+    "C",
+    "ENIAC"
+   ],
+   [
+    "D",
+    "Hollerith's Counting Machine"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q46"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "The Electronic Numerical Integrator and Computer project was a response to U.S. needs during _________.",
+  "opts": [
+   [
+    "A",
+    "the Civil War"
+   ],
+   [
+    "B",
+    "the French-American War"
+   ],
+   [
+    "C",
+    "World War I"
+   ],
+   [
+    "D",
+    "World War II"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q47"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "The ENIAC used __________.",
+  "opts": [
+   [
+    "A",
+    "vacuum tubes"
+   ],
+   [
+    "B",
+    "integrated circuits"
+   ],
+   [
+    "C",
+    "IAS"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q48"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "The ENIAC is an example of a _________ generation computer.",
+  "opts": [
+   [
+    "A",
+    "first"
+   ],
+   [
+    "B",
+    "second"
+   ],
+   [
+    "C",
+    "third"
+   ],
+   [
+    "D",
+    "fourth"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q49"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "The __________ interprets the instructions in memory and causes them to be executed.",
+  "opts": [
+   [
+    "A",
+    "main memory"
+   ],
+   [
+    "B",
+    "control unit"
+   ],
+   [
+    "C",
+    "I/O"
+   ],
+   [
+    "D",
+    "arithmetic and logic unit"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q50"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "The memory of the IAS consists of 1000 storage locations called __________.",
+  "opts": [
+   [
+    "A",
+    "opcodes"
+   ],
+   [
+    "B",
+    "wafers"
+   ],
+   [
+    "C",
+    "VLSIs"
+   ],
+   [
+    "D",
+    "words"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q51"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "The __________ contains the 8-bit opcode instruction being executed.",
+  "opts": [
+   [
+    "A",
+    "memory buffer register"
+   ],
+   [
+    "B",
+    "instruction buffer register"
+   ],
+   [
+    "C",
+    "instruction register"
+   ],
+   [
+    "D",
+    "memory address register"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q52"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "During the _________ the opcode of the next instruction is loaded into the IR and the address portion is loaded into the MAR.",
+  "opts": [
+   [
+    "A",
+    "executes cycle"
+   ],
+   [
+    "B",
+    "fetch cycle"
+   ],
+   [
+    "C",
+    "instruction cycle"
+   ],
+   [
+    "D",
+    "clock cycle"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q53"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "Second generation computers used __________.",
+  "opts": [
+   [
+    "A",
+    "integrated circuits"
+   ],
+   [
+    "B",
+    "Transistors"
+   ],
+   [
+    "C",
+    "vacuum tubes"
+   ],
+   [
+    "D",
+    "large-scale integration"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q54"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "The __________ defines the third generation of computers.",
+  "opts": [
+   [
+    "A",
+    "integrated circuit"
+   ],
+   [
+    "B",
+    "vacuum tube"
+   ],
+   [
+    "C",
+    "transistor"
+   ],
+   [
+    "D",
+    "VLSI"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q55"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "With the __________, Intel introduced the use of superscalar techniques that allow multiple instructions to execute in parallel.",
+  "opts": [
+   [
+    "A",
+    "Core"
+   ],
+   [
+    "B",
+    "8080"
+   ],
+   [
+    "C",
+    "80486"
+   ],
+   [
+    "D",
+    "Pentium"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q57"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "ARM processors are designed to meet the needs of _________.",
+  "opts": [
+   [
+    "A",
+    "embedded real-time systems"
+   ],
+   [
+    "B",
+    "application platforms"
+   ],
+   [
+    "C",
+    "secure applications"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q59"
+ },
+ {
+  "sec": "Additional questions from the compiled list (Chapters 1-4 topics)",
+  "type": "mcq",
+  "q": "One increment, or pulse, of the system clock is referred to as a _________.",
+  "opts": [
+   [
+    "A",
+    "clock tick"
+   ],
+   [
+    "B",
+    "cycle time"
+   ],
+   [
+    "C",
+    "clock rate"
+   ],
+   [
+    "D",
+    "cycle speed"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": "List Q60"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "The basic element of a semiconductor memory is the memory cell.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q121"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "A characteristic of ROM is that it is volatile.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q122"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "RAM must be provided with a constant power supply.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q123"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "The two traditional forms of RAM used in computers are DRAM and SRAM.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q124"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "A static RAM will hold its data as long as power is supplied to it.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q125"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "Nonvolatile means that power must be continuously supplied to the memory to preserve the bit values.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q126"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "The advantage of RAM is that the data or program is permanently in main memory and need never be loaded from a secondary storage device.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q127"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "Semiconductor memory comes in packaged chips.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q128"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "All DRAMs require a refresh operation.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q129"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "A number of chips can be grouped together to form a memory bank.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q130"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "An error-correcting code enhances the reliability of the memory at the cost of added complexity.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q131"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "DRAM is much costlier than SRAM.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q132"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "RDRAM is limited by the fact that it can only send data to the processor once per bus clock cycle.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "الجملة تنسب القيد إلى RDRAM بينما المصدر المعروف (Stallings) ينسبه إلى SDRAM؛ اخترنا FALSE.",
+  "page": "List Q133"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "The prefetch buffer is a memory cache located on the RAM chip.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q134"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "tf",
+  "q": "The SRAM on the CDRAM cannot be used as a buffer to support the serial access of a block of data.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q135"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "Which properties do all semiconductor memory cells share?",
+  "opts": [
+   [
+    "A",
+    "they exhibit two stable states which can be used to represent binary 1 and 0"
+   ],
+   [
+    "B",
+    "they are capable of being written into to set the state"
+   ],
+   [
+    "C",
+    "they are capable of being read to sense the state"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q136"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "One distinguishing characteristic of memory that is designated as _________ is that it is possible to both to read data from the memory and to write new data into the memory easily and rapidly.",
+  "opts": [
+   [
+    "A",
+    "RAM"
+   ],
+   [
+    "B",
+    "ROM"
+   ],
+   [
+    "C",
+    "EPROM"
+   ],
+   [
+    "D",
+    "EEPROM"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q137"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "Which of the following memory types are nonvolatile?",
+  "opts": [
+   [
+    "A",
+    "erasable PROM"
+   ],
+   [
+    "B",
+    "programmable ROM"
+   ],
+   [
+    "C",
+    "flash memory"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q138"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "In a _________, binary values are stored using traditional flip-flop logic-gate configurations.",
+  "opts": [
+   [
+    "A",
+    "ROM"
+   ],
+   [
+    "B",
+    "SRAM"
+   ],
+   [
+    "C",
+    "DRAM"
+   ],
+   [
+    "D",
+    "RAM"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q139"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "A __________ contains a permanent pattern of data that cannot be changed, is nonvolatile, and cannot have new data written into it.",
+  "opts": [
+   [
+    "A",
+    "RAM"
+   ],
+   [
+    "B",
+    "SRAM"
+   ],
+   [
+    "C",
+    "ROM"
+   ],
+   [
+    "D",
+    "flash memory"
+   ]
+  ],
+  "ans": "C",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q140"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "With _________ the microchip is organized so that a section of memory cells are erased in a single action.",
+  "opts": [
+   [
+    "A",
+    "flash memory"
+   ],
+   [
+    "B",
+    "SDRAM"
+   ],
+   [
+    "C",
+    "DRAM"
+   ],
+   [
+    "D",
+    "EEPROM"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q141"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "__________ can be caused by harsh environmental abuse, manufacturing defects, and wear.",
+  "opts": [
+   [
+    "A",
+    "SEC errors"
+   ],
+   [
+    "B",
+    "Hard errors"
+   ],
+   [
+    "C",
+    "Syndrome errors"
+   ],
+   [
+    "D",
+    "Soft errors"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q142"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "_________ can be caused by power supply problems or alpha particles.",
+  "opts": [
+   [
+    "A",
+    "Soft errors"
+   ],
+   [
+    "B",
+    "AGT errors"
+   ],
+   [
+    "C",
+    "Hard errors"
+   ],
+   [
+    "D",
+    "SEC errors"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q143"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "The _________ exchanges data with the processor synchronized to an external clock signal and running at the full speed of the processor/memory bus without imposing wait states.",
+  "opts": [
+   [
+    "A",
+    "DDR-DRAM"
+   ],
+   [
+    "B",
+    "SDRAM"
+   ],
+   [
+    "C",
+    "CDRAM"
+   ],
+   [
+    "D",
+    "none of the above"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q144"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "________ can send data to the processor twice per clock cycle.",
+  "opts": [
+   [
+    "A",
+    "CDRAM"
+   ],
+   [
+    "B",
+    "SDRAM"
+   ],
+   [
+    "C",
+    "DDR-DRAM"
+   ],
+   [
+    "D",
+    "RDRAM"
+   ]
+  ],
+  "ans": "C",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q145"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "__________ increases the data transfer rate by increasing the operational frequency of the RAM chip and by increasing the prefetch buffer from 2 bits to 4 bits per chip.",
+  "opts": [
+   [
+    "A",
+    "DDR2"
+   ],
+   [
+    "B",
+    "RDRAM"
+   ],
+   [
+    "C",
+    "CDRAM"
+   ],
+   [
+    "D",
+    "DDR3"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q146"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "_______ increases the prefetch buffer size to 8 bits.",
+  "opts": [
+   [
+    "A",
+    "CDRAM"
+   ],
+   [
+    "B",
+    "RDRAM"
+   ],
+   [
+    "C",
+    "DDR3"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "C",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q147"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "Theoretically, a DDR module can transfer data at a clock rate in the range of __________ MHz.",
+  "opts": [
+   [
+    "A",
+    "200 to 600"
+   ],
+   [
+    "B",
+    "400 to 1066"
+   ],
+   [
+    "C",
+    "600 to 1400"
+   ],
+   [
+    "D",
+    "800 to 1600"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "حسب Stallings: DDR من 200 إلى 600 MHz (DDR2: 400–1066، DDR3: 800–1600).",
+  "page": "List Q148"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "A DDR3 module transfers data at a clock rate of __________ MHz.",
+  "opts": [
+   [
+    "A",
+    "600 to 1200"
+   ],
+   [
+    "B",
+    "800 to 1600"
+   ],
+   [
+    "C",
+    "1000 to 2000"
+   ],
+   [
+    "D",
+    "1500 to 3000"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q149"
+ },
+ {
+  "sec": "Internal Memory (semiconductor memory)",
+  "type": "mcq",
+  "q": "The ________ enables the RAM chip to preposition bits to be placed on the data bus as rapidly as possible.",
+  "opts": [
+   [
+    "A",
+    "flash memory"
+   ],
+   [
+    "B",
+    "Hamming code"
+   ],
+   [
+    "C",
+    "RamBus"
+   ],
+   [
+    "D",
+    "buffer"
+   ]
+  ],
+  "ans": "D",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q150"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "Magnetic disks are the foundation of external memory on virtually all computer systems.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q151"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "During a read or write operation, the head rotates while the platter beneath it stays stationary.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q152"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "The width of a track is double that of the head.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q153"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "There are typically hundreds of sectors per track and they may be either fixed or variable lengths.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q154"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "A bit near the center of a rotating disk travels past a fixed point slower than a bit on the outside.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q155"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "The disadvantage of using CAV is that individual blocks of data can only be directly addressed by track and sector.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q156"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "A removable disk can be removed and replaced with another disk.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q157"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "The head must generate or sense an electromagnetic field of sufficient magnitude to write and read properly.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q158"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "The transfer time to or from the disk does not depend on the rotation speed of the disk.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q159"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "RAID is a set of physical disk drives viewed by the operating system as a single logical drive.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q160"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "RAID level 0 is not a true member of the RAID family because it does not include redundancy to improve performance.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "الصياغة «redundancy to improve performance» كما في كتاب Stallings؛ اخترنا TRUE.",
+  "page": "List Q161"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "Because data are striped in very small strips, RAID 3 cannot achieve very high data transfer rates.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q162"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "The SSDs now on the market use a type of semiconductor memory referred to as flash memory.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q163"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "SSD performance has a tendency to speed up as the device is used.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q164"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "tf",
+  "q": "Flash memory becomes unusable after a certain number of writes.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q165"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "Greater ability to withstand shock and damage, improvement in the uniformity of the magnet film surface to increase disk reliability, and a significant reduction in overall surface defects to help reduce read-write errors, are all benefits of ___________.",
+  "opts": [
+   [
+    "A",
+    "magnetic read and write mechanisms"
+   ],
+   [
+    "B",
+    "platters"
+   ],
+   [
+    "C",
+    "the glass substrate"
+   ],
+   [
+    "D",
+    "a solid state drive"
+   ]
+  ],
+  "ans": "C",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q166"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "Adjacent tracks are separated by _________.",
+  "opts": [
+   [
+    "A",
+    "sectors"
+   ],
+   [
+    "B",
+    "gaps"
+   ],
+   [
+    "C",
+    "pits"
+   ],
+   [
+    "D",
+    "heads"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q167"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "Data are transferred to and from the disk in __________.",
+  "opts": [
+   [
+    "A",
+    "tracks"
+   ],
+   [
+    "B",
+    "gaps"
+   ],
+   [
+    "C",
+    "sectors"
+   ],
+   [
+    "D",
+    "pits"
+   ]
+  ],
+  "ans": "C",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q168"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "In most contemporary systems fixed-length sectors are used, with _________ bytes being the nearly universal sector size.",
+  "opts": [
+   [
+    "A",
+    "64"
+   ],
+   [
+    "B",
+    "128"
+   ],
+   [
+    "C",
+    "256"
+   ],
+   [
+    "D",
+    "512"
+   ]
+  ],
+  "ans": "D",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q169"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "Scanning information at the same rate by rotating the disk at a fixed speed is known as the _________.",
+  "opts": [
+   [
+    "A",
+    "constant angular velocity"
+   ],
+   [
+    "B",
+    "magnetoresistive"
+   ],
+   [
+    "C",
+    "rotational delay"
+   ],
+   [
+    "D",
+    "constant linear velocity"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q170"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "The disadvantage of _________ is that the amount of data that can be stored on the long outer tracks is only the same as what can be stored on the short inner tracks.",
+  "opts": [
+   [
+    "A",
+    "SSD"
+   ],
+   [
+    "B",
+    "CAV"
+   ],
+   [
+    "C",
+    "ROM"
+   ],
+   [
+    "D",
+    "CLV"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q171"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "A __________ disk is permanently mounted in the disk drive, such as the hard disk in a personal computer.",
+  "opts": [
+   [
+    "A",
+    "nonremovable"
+   ],
+   [
+    "B",
+    "movable-head"
+   ],
+   [
+    "C",
+    "double sided"
+   ],
+   [
+    "D",
+    "removable"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q172"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "When the magnetizable coating is applied to both sides of the platter the disk is then referred to as _________.",
+  "opts": [
+   [
+    "A",
+    "multiple sided"
+   ],
+   [
+    "B",
+    "substrate"
+   ],
+   [
+    "C",
+    "double sided"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "C",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q173"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "The set of all the tracks in the same relative position on the platter is referred to as a _________.",
+  "opts": [
+   [
+    "A",
+    "floppy disk"
+   ],
+   [
+    "B",
+    "single-sided disk"
+   ],
+   [
+    "C",
+    "sector"
+   ],
+   [
+    "D",
+    "cylinder"
+   ]
+  ],
+  "ans": "D",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q174"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "The sum of the seek time and the rotational delay equals the _________, which is the time it takes to get into position to read or write.",
+  "opts": [
+   [
+    "A",
+    "access time"
+   ],
+   [
+    "B",
+    "gap time"
+   ],
+   [
+    "C",
+    "transfer time"
+   ],
+   [
+    "D",
+    "constant angular velocity"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q175"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "__________ is the standardized scheme for multiple-disk database design.",
+  "opts": [
+   [
+    "A",
+    "RAID"
+   ],
+   [
+    "B",
+    "CAV"
+   ],
+   [
+    "C",
+    "CLV"
+   ],
+   [
+    "D",
+    "SSD"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q176"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "RAID level ________ has the highest disk overhead of all RAID types.",
+  "opts": [
+   [
+    "A",
+    "0"
+   ],
+   [
+    "B",
+    "1"
+   ],
+   [
+    "C",
+    "3"
+   ],
+   [
+    "D",
+    "5"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q177"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "A _________ is a high-definition video disk that can store 25 Gbytes on a single layer on a single side.",
+  "opts": [
+   [
+    "A",
+    "DVD"
+   ],
+   [
+    "B",
+    "DVD-R"
+   ],
+   [
+    "C",
+    "DVD-RW"
+   ],
+   [
+    "D",
+    "Blu-ray DVD"
+   ]
+  ],
+  "ans": "D",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q178"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "________ is when the disk rotates more slowly for accesses near the outer edge than for those near the center.",
+  "opts": [
+   [
+    "A",
+    "Constant angular velocity (CAV)"
+   ],
+   [
+    "B",
+    "Magnetoresistive"
+   ],
+   [
+    "C",
+    "Constant linear velocity (CLV)"
+   ],
+   [
+    "D",
+    "Seek time"
+   ]
+  ],
+  "ans": "C",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q179"
+ },
+ {
+  "sec": "External Memory (disks, RAID, SSD, optical)",
+  "type": "mcq",
+  "q": "The areas between pits are called _________.",
+  "opts": [
+   [
+    "A",
+    "lands"
+   ],
+   [
+    "B",
+    "sectors"
+   ],
+   [
+    "C",
+    "cylinders"
+   ],
+   [
+    "D",
+    "strips"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q180"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "A set of I/O modules is a key element of a computer system.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q181"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "An I/O module must recognize one unique address for each peripheral it controls.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q182"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "I/O channels are commonly seen on microcomputers, whereas I/O controllers are used on mainframes.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q183"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "It is the responsibility of the processor to periodically check the status of the I/O module until it finds that the operation is complete.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q184"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "With isolated I/O there is a single address space for memory locations and I/O devices.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q185"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "A disadvantage of memory-mapped I/O is that valuable memory address space is used up.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q186"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "The disadvantage of the software poll is that it is time consuming.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q187"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "With a daisy chain the processor just picks the interrupt line with the highest priority.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q188"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "Bus arbitration makes use of vectored interrupts.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "حسب Stallings: bus arbitration شكل من أشكال vectored interrupt.",
+  "page": "List Q189"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "The rotating interrupt mode allows the processor to inhibit interrupts from certain devices.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q190"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "Because the 82C55A is programmable via the control register, it can be used to control a variety of simple peripheral devices.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q191"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "When large volumes of data are to be moved, a more efficient technique is direct memory access (DMA).",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q192"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "An I/O channel has the ability to execute I/O instructions, which gives it complete control over I/O operations.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q193"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "A multipoint external interface provides a dedicated line between the I/O module and the external device.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q194"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "tf",
+  "q": "A Thunderbolt compatible peripheral interface is no more complex than that of a simple USB device.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q195"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The _________ contains logic for performing a communication function between the peripheral and the bus.",
+  "opts": [
+   [
+    "A",
+    "I/O channel"
+   ],
+   [
+    "B",
+    "I/O module"
+   ],
+   [
+    "C",
+    "I/O processor"
+   ],
+   [
+    "D",
+    "I/O command"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q196"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The most common means of computer/user interaction is a __________.",
+  "opts": [
+   [
+    "A",
+    "keyboard/monitor"
+   ],
+   [
+    "B",
+    "mouse/printer"
+   ],
+   [
+    "C",
+    "modem/printer"
+   ],
+   [
+    "D",
+    "monitor/printer"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q197"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The I/O function includes a _________ requirement to coordinate the flow of traffic between internal resources and external devices.",
+  "opts": [
+   [
+    "A",
+    "cycle"
+   ],
+   [
+    "B",
+    "status reporting"
+   ],
+   [
+    "C",
+    "control and timing"
+   ],
+   [
+    "D",
+    "data"
+   ]
+  ],
+  "ans": "C",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q198"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "An I/O module that takes on most of the detailed processing burden, presenting a high-level interface to the processor, is usually referred to as an _________.",
+  "opts": [
+   [
+    "A",
+    "I/O channel"
+   ],
+   [
+    "B",
+    "I/O command"
+   ],
+   [
+    "C",
+    "I/O controller"
+   ],
+   [
+    "D",
+    "device controller"
+   ]
+  ],
+  "ans": "A",
+  "origin": "claude",
+  "note": "حسب Stallings: «I/O channel» أو «I/O processor»؛ الخيار المتاح هو I/O channel.",
+  "page": "List Q199"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "An I/O module that is quite primitive and requires detailed control is usually referred to as an _________.",
+  "opts": [
+   [
+    "A",
+    "I/O command"
+   ],
+   [
+    "B",
+    "I/O controller"
+   ],
+   [
+    "C",
+    "I/O channel"
+   ],
+   [
+    "D",
+    "I/O processor"
+   ]
+  ],
+  "ans": "B",
+  "origin": "claude",
+  "note": "",
+  "page": "List Q200"
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The _________ command causes the I/O module to take an item of data from the data bus and subsequently transmit that data item to the peripheral.",
+  "opts": [
+   [
+    "A",
+    "control"
+   ],
+   [
+    "B",
+    "test"
+   ],
+   [
+    "C",
+    "read"
+   ],
+   [
+    "D",
+    "write"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The ________ command is used to activate a peripheral and tell it what to do.",
+  "opts": [
+   [
+    "A",
+    "control"
+   ],
+   [
+    "B",
+    "test"
+   ],
+   [
+    "C",
+    "read"
+   ],
+   [
+    "D",
+    "write"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "________ is when the DMA module must force the processor to suspend operation temporarily.",
+  "opts": [
+   [
+    "A",
+    "Interrupt"
+   ],
+   [
+    "B",
+    "Thunderbolt"
+   ],
+   [
+    "C",
+    "Cycle stealing"
+   ],
+   [
+    "D",
+    "Lock down"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The 8237 DMA is known as a _________ DMA controller.",
+  "opts": [
+   [
+    "A",
+    "command"
+   ],
+   [
+    "B",
+    "cycle stealing"
+   ],
+   [
+    "C",
+    "interrupt"
+   ],
+   [
+    "D",
+    "fly-by"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "________ is a digital display interface standard now widely adopted for computer monitors, laptop displays, and other graphics and video interfaces.",
+  "opts": [
+   [
+    "A",
+    "DisplayPort"
+   ],
+   [
+    "B",
+    "PCI Express"
+   ],
+   [
+    "C",
+    "Thunderbolt"
+   ],
+   [
+    "D",
+    "InfiniBand"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The ________ layer is the key to the operation of Thunderbolt and what makes it attractive as a high-speed peripheral I/O technology.",
+  "opts": [
+   [
+    "A",
+    "cable"
+   ],
+   [
+    "B",
+    "application"
+   ],
+   [
+    "C",
+    "common transport"
+   ],
+   [
+    "D",
+    "physical"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The Thunderbolt protocol _________ layer is responsible for link maintenance including hot-plug detection and data encoding to provide highly efficient data transfer.",
+  "opts": [
+   [
+    "A",
+    "cable"
+   ],
+   [
+    "B",
+    "application"
+   ],
+   [
+    "C",
+    "common transport"
+   ],
+   [
+    "D",
+    "physical"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "The ________ contains I/O protocols that are mapped on to the transport layer.",
+  "opts": [
+   [
+    "A",
+    "cable"
+   ],
+   [
+    "B",
+    "application"
+   ],
+   [
+    "C",
+    "common transport"
+   ],
+   [
+    "D",
+    "physical"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "A ________ is used to connect storage systems, routers, and other peripheral devices to an InfiniBand switch.",
+  "opts": [
+   [
+    "A",
+    "target channel adapter"
+   ],
+   [
+    "B",
+    "InfiniBand switch"
+   ],
+   [
+    "C",
+    "host channel adapter"
+   ],
+   [
+    "D",
+    "subnet"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Input/Output (I/O)",
+  "type": "mcq",
+  "q": "A ________ connects InfiniBand subnets, or connects an InfiniBand switch to a network such as a local area network, wide area network, or storage area network.",
+  "opts": [
+   [
+    "A",
+    "memory controller"
+   ],
+   [
+    "B",
+    "TCA"
+   ],
+   [
+    "C",
+    "HCA"
+   ],
+   [
+    "D",
+    "router"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "Scheduling and memory management are the two OS functions that are most relevant to the study of computer organization and architecture.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "The end user is concerned mainly with the computer's architecture.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "The most important system program is the OS.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "The ABI is the boundary between hardware and software.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "The OS must determine how much processor time is to be devoted to the execution of a particular user program.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "With a batch operating system the user does not have direct access to the processor.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "Privileged instructions are certain instructions that are designated special and can be executed only by the monitor.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "Uniprogramming is the central theme of modern operating systems.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "Both batch multiprogramming and time sharing use multiprogramming.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "An interrupt is a hardware-generated signal to the processor.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "Swapping is an I/O operation.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "With demand paging it is necessary to load an entire process into main memory.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "The Pentium II includes hardware for both segmentation and paging.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "ARM provides a versatile virtual memory system architecture that can be tailored to the needs of the embedded system designer.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "tf",
+  "q": "Managers are users of domains that must observe the access permissions of the individual sections and/or pages that make up that domain.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "The __________ is a program that controls the execution of application programs and acts as an interface between applications and the computer hardware.",
+  "opts": [
+   [
+    "A",
+    "job control language"
+   ],
+   [
+    "B",
+    "operating system"
+   ],
+   [
+    "C",
+    "batch system"
+   ],
+   [
+    "D",
+    "nucleus"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "Facilities and services provided by the OS that assist the programmer in creating programs are in the form of _________ programs that are not actually part of the OS but are accessible through the OS.",
+  "opts": [
+   [
+    "A",
+    "utility"
+   ],
+   [
+    "B",
+    "multitasking"
+   ],
+   [
+    "C",
+    "JCL"
+   ],
+   [
+    "D",
+    "logical address"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "The _________ defines the repertoire of machine language instructions that a computer can follow.",
+  "opts": [
+   [
+    "A",
+    "ABI"
+   ],
+   [
+    "B",
+    "API"
+   ],
+   [
+    "C",
+    "HLL"
+   ],
+   [
+    "D",
+    "ISA"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "The _________ defines the system call interface to the operating system and the hardware resources and services available in a system through the user instruction set architecture.",
+  "opts": [
+   [
+    "A",
+    "HLL"
+   ],
+   [
+    "B",
+    "API"
+   ],
+   [
+    "C",
+    "ABI"
+   ],
+   [
+    "D",
+    "ISA"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "The ________ gives a program access to the hardware resources and services available in a system through the user instruction set architecture supplemented with high-level language library calls.",
+  "opts": [
+   [
+    "A",
+    "JCL"
+   ],
+   [
+    "B",
+    "ISA"
+   ],
+   [
+    "C",
+    "ABI"
+   ],
+   [
+    "D",
+    "API"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "A _________ system works only one program at a time.",
+  "opts": [
+   [
+    "A",
+    "batch"
+   ],
+   [
+    "B",
+    "uniprogramming"
+   ],
+   [
+    "C",
+    "kernel"
+   ],
+   [
+    "D",
+    "privileged instruction"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "A _________ is a special type of programming language used to provide instructions to the monitor.",
+  "opts": [
+   [
+    "A",
+    "job control language"
+   ],
+   [
+    "B",
+    "multiprogram"
+   ],
+   [
+    "C",
+    "kernel"
+   ],
+   [
+    "D",
+    "utility"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "The _________ scheduler determines which programs are admitted to the system for processing.",
+  "opts": [
+   [
+    "A",
+    "long-term"
+   ],
+   [
+    "B",
+    "medium-term"
+   ],
+   [
+    "C",
+    "short-term"
+   ],
+   [
+    "D",
+    "I/O"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "The ________ scheduler is also known as the dispatcher.",
+  "opts": [
+   [
+    "A",
+    "long-term"
+   ],
+   [
+    "B",
+    "medium-term"
+   ],
+   [
+    "C",
+    "short-term"
+   ],
+   [
+    "D",
+    "I/O"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "A _________ is an actual location in main memory.",
+  "opts": [
+   [
+    "A",
+    "logical address"
+   ],
+   [
+    "B",
+    "partition address"
+   ],
+   [
+    "C",
+    "base address"
+   ],
+   [
+    "D",
+    "physical address"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "________ is when the processor spends most of its time swapping pages rather than executing instructions.",
+  "opts": [
+   [
+    "A",
+    "Swapping"
+   ],
+   [
+    "B",
+    "Thrashing"
+   ],
+   [
+    "C",
+    "Paging"
+   ],
+   [
+    "D",
+    "Multitasking"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "Virtual memory schemes make use of a special cache called a ________ for page table entries.",
+  "opts": [
+   [
+    "A",
+    "TLB"
+   ],
+   [
+    "B",
+    "HLL"
+   ],
+   [
+    "C",
+    "VMC"
+   ],
+   [
+    "D",
+    "SPB"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "With _________ the virtual address is the same as the physical address.",
+  "opts": [
+   [
+    "A",
+    "unsegmented unpaged memory"
+   ],
+   [
+    "B",
+    "unsegmented paged memory"
+   ],
+   [
+    "C",
+    "segmented unpaged memory"
+   ],
+   [
+    "D",
+    "segmented paged memory"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "A _________ is a collection of memory regions.",
+  "opts": [
+   [
+    "A",
+    "APX"
+   ],
+   [
+    "B",
+    "nucleus"
+   ],
+   [
+    "C",
+    "domain"
+   ],
+   [
+    "D",
+    "page table"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Operating Systems",
+  "type": "mcq",
+  "q": "The OS maintains a __________ for each process that shows the frame location for each page of the process.",
+  "opts": [
+   [
+    "A",
+    "kernel"
+   ],
+   [
+    "B",
+    "page table"
+   ],
+   [
+    "C",
+    "TLB"
+   ],
+   [
+    "D",
+    "logical address"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "Our primary counting system is based on binary digits to represent numbers.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "The decimal system has a radix of 100.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "Negative powers of 10 are used to represent the positions of the numbers for decimal fractions.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "A number with both an integer and fractional part has digits raised to both positive and negative powers of 10.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "In any number, the rightmost digit is referred to as the most significant digit.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "There are 50 tens in the number 509.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "The decimal system is a special case of a positional number system with radix 10 and with digits in the range 0 through 9.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "A number cannot be converted from binary notation to decimal notation.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "Although convenient for computers, the binary system is exceedingly cumbersome for human beings.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "A nibble is a grouping of four decimal digits.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "Hexadecimal notation is only used for representing integers.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "It is extremely easy to convert between binary and hexadecimal notation.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "Hexadecimal notation is more compact than binary notation.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "A sequence of hexadecimal digits can be thought of as representing an integer in base 10.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "tf",
+  "q": "Because of the inherent binary nature of digital computer components, all forms of data within computers are represented by various binary codes.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "The decimal system has a base of _________.",
+  "opts": [
+   [
+    "A",
+    "0"
+   ],
+   [
+    "B",
+    "10"
+   ],
+   [
+    "C",
+    "100"
+   ],
+   [
+    "D",
+    "1000"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Which digit represents \"hundreds\" in the number 8732?",
+  "opts": [
+   [
+    "A",
+    "8"
+   ],
+   [
+    "B",
+    "7"
+   ],
+   [
+    "C",
+    "3"
+   ],
+   [
+    "D",
+    "2"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Which of the following is correct?",
+  "opts": [
+   [
+    "A",
+    "25 = (2 x 102) + (5 x 101)"
+   ],
+   [
+    "B",
+    "289 = (2 x 103) + (8 x 101) + (9 x 100)"
+   ],
+   [
+    "C",
+    "7523 = (7 x 103) + (5 x 102) + (2 x 101) + (3 x 100)"
+   ],
+   [
+    "D",
+    "0.628 = (6 x 10-3) + (2 x 10-2) + (8 x 10-1)"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "In the number 3109, the 3 is referred to as the _________.",
+  "opts": [
+   [
+    "A",
+    "most significant digit"
+   ],
+   [
+    "B",
+    "least significant digit"
+   ],
+   [
+    "C",
+    "radix"
+   ],
+   [
+    "D",
+    "base"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "In the number 3109, the 9 is referred to as the _________.",
+  "opts": [
+   [
+    "A",
+    "most significant digit"
+   ],
+   [
+    "B",
+    "least significant digit"
+   ],
+   [
+    "C",
+    "radix"
+   ],
+   [
+    "D",
+    "base"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Numbers in the binary system are represented to the _________.",
+  "opts": [
+   [
+    "A",
+    "base 0"
+   ],
+   [
+    "B",
+    "base 1"
+   ],
+   [
+    "C",
+    "base 2"
+   ],
+   [
+    "D",
+    "base 10"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Hexadecimal has a base of _________.",
+  "opts": [
+   [
+    "A",
+    "2"
+   ],
+   [
+    "B",
+    "8"
+   ],
+   [
+    "C",
+    "10"
+   ],
+   [
+    "D",
+    "16"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "The binary string 110111100001 is equivalent to __________.",
+  "opts": [
+   [
+    "A",
+    "DE116"
+   ],
+   [
+    "B",
+    "C7816"
+   ],
+   [
+    "C",
+    "FF6416"
+   ],
+   [
+    "D",
+    "B8F16"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "The _________ system uses only the numbers 0 and 1.",
+  "opts": [
+   [
+    "A",
+    "positional"
+   ],
+   [
+    "B",
+    "binary"
+   ],
+   [
+    "C",
+    "hexadecimal"
+   ],
+   [
+    "D",
+    "decimal"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Decimal \"10\" is __________ in binary.",
+  "opts": [
+   [
+    "A",
+    "1000"
+   ],
+   [
+    "B",
+    "0010"
+   ],
+   [
+    "C",
+    "1010"
+   ],
+   [
+    "D",
+    "0001"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Decimal \"10\" is _________ in hexadecimal.",
+  "opts": [
+   [
+    "A",
+    "1"
+   ],
+   [
+    "B",
+    "A"
+   ],
+   [
+    "C",
+    "0"
+   ],
+   [
+    "D",
+    "FF"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Four bits is called a _________.",
+  "opts": [
+   [
+    "A",
+    "radix point"
+   ],
+   [
+    "B",
+    "byte"
+   ],
+   [
+    "C",
+    "nibble"
+   ],
+   [
+    "D",
+    "binary digit"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Another term for \"base\" is __________.",
+  "opts": [
+   [
+    "A",
+    "radix"
+   ],
+   [
+    "B",
+    "integer"
+   ],
+   [
+    "C",
+    "position"
+   ],
+   [
+    "D",
+    "digit"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "In the number 472.156 the 2 is the _________.",
+  "opts": [
+   [
+    "A",
+    "most significant digit"
+   ],
+   [
+    "B",
+    "radix point"
+   ],
+   [
+    "C",
+    "least significant digit"
+   ],
+   [
+    "D",
+    "none of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Number Systems",
+  "type": "mcq",
+  "q": "Binary 0101 is hexadecimal _________.",
+  "opts": [
+   [
+    "A",
+    "0"
+   ],
+   [
+    "B",
+    "5"
+   ],
+   [
+    "C",
+    "A"
+   ],
+   [
+    "D",
+    "10"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "The operation of the digital computer is based on the storage and processing of binary data.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "Claude Shannon, a research assistant in the Electrical Engineering Department at M.I.T., proposed the basic principles of Boolean algebra.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "In the absence of parentheses, the AND operation takes precedence over the OR operation.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "Logical functions are implemented by the interconnection of decoders.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "The delay by the propagation time of signals through the gate is known as the gate delay.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "A combinational circuit consists of n binary inputs and m binary outputs.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "Any Boolean function can be implemented in electronic form as a network of gates.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "A Boolean function can be realized in the sum of products (SOP) form but not in the product of sums (POS) form.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "\"Don't care\" conditions are when certain combinations of values of variables never occur, and therefore the corresponding output never occurs.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "The value to be loaded into the program counter can come from a binary counter, the instruction register, or the output of the ALU.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "In general, a decoder has n inputs and 2n outputs.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "Combinational circuits are often referred to as \"memoryless\" circuits because their output depends only on their current input and no history of prior inputs is retained.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "Binary addition is exactly the same as Boolean algebra.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "Events in the digital computer are synchronized to a clock pulse so that changes occur only when a clock pulse occurs.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "tf",
+  "q": "A register is a digital circuit used within the CPU to store one or more bits of data.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "The operand ________ yields true if and only if both of its operands are true.",
+  "opts": [
+   [
+    "A",
+    "XOR"
+   ],
+   [
+    "B",
+    "OR"
+   ],
+   [
+    "C",
+    "AND"
+   ],
+   [
+    "D",
+    "NOT"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "The operation _________ yields true if either or both of its operands are true.",
+  "opts": [
+   [
+    "A",
+    "NOT"
+   ],
+   [
+    "B",
+    "AND"
+   ],
+   [
+    "C",
+    "NAND"
+   ],
+   [
+    "D",
+    "OR"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "The unary operation _________ inverts the value of its operand.",
+  "opts": [
+   [
+    "A",
+    "OR"
+   ],
+   [
+    "B",
+    "NOT"
+   ],
+   [
+    "C",
+    "NAND"
+   ],
+   [
+    "D",
+    "XOR"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "A _______ is an electronic circuit that produces an output signal that is a simple Boolean operation on its input signals.",
+  "opts": [
+   [
+    "A",
+    "gate"
+   ],
+   [
+    "B",
+    "decoder"
+   ],
+   [
+    "C",
+    "counter"
+   ],
+   [
+    "D",
+    "flip-flop"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "Which of the following is a functionally complete set?",
+  "opts": [
+   [
+    "A",
+    "AND, NOT"
+   ],
+   [
+    "B",
+    "NOR"
+   ],
+   [
+    "C",
+    "AND, OR, NOT"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "For more than four variables an alternative approach is a tabular technique referred to as the _________ method.",
+  "opts": [
+   [
+    "A",
+    "DeMorgan"
+   ],
+   [
+    "B",
+    "Quine-McCluskey"
+   ],
+   [
+    "C",
+    "Karnaugh map"
+   ],
+   [
+    "D",
+    "Boole-Shannon"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "________ are used in digital circuits to control signal and data routing.",
+  "opts": [
+   [
+    "A",
+    "Multiplexers"
+   ],
+   [
+    "B",
+    "Program counters"
+   ],
+   [
+    "C",
+    "Flip-flops"
+   ],
+   [
+    "D",
+    "Gates"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "________ is implemented with combinational circuits.",
+  "opts": [
+   [
+    "A",
+    "Nano memory"
+   ],
+   [
+    "B",
+    "Random access memory"
+   ],
+   [
+    "C",
+    "Read only memory"
+   ],
+   [
+    "D",
+    "No memory"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "The ________ exists in one of two states and, in the absence of input, remains in that state.",
+  "opts": [
+   [
+    "A",
+    "assert"
+   ],
+   [
+    "B",
+    "complex PLD"
+   ],
+   [
+    "C",
+    "decoder"
+   ],
+   [
+    "D",
+    "flip-flop"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "The ________ flip-flop has two inputs and all possible combinations of input values are valid.",
+  "opts": [
+   [
+    "A",
+    "J-K"
+   ],
+   [
+    "B",
+    "D"
+   ],
+   [
+    "C",
+    "S-R"
+   ],
+   [
+    "D",
+    "clocked S-R"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "A _________ accepts and/or transfers information serially.",
+  "opts": [
+   [
+    "A",
+    "S-R latch"
+   ],
+   [
+    "B",
+    "shift register"
+   ],
+   [
+    "C",
+    "FPGA"
+   ],
+   [
+    "D",
+    "parallel register"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "Counters can be designated as _________.",
+  "opts": [
+   [
+    "A",
+    "asynchronous"
+   ],
+   [
+    "B",
+    "synchronous"
+   ],
+   [
+    "C",
+    "both asynchronous and synchronous"
+   ],
+   [
+    "D",
+    "neither asynchronous or synchronous"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "CPUs make use of _________ counters, in which all of the flip-flops of the counter change at the same time.",
+  "opts": [
+   [
+    "A",
+    "synchronous"
+   ],
+   [
+    "B",
+    "asynchronous"
+   ],
+   [
+    "C",
+    "clocked S-R"
+   ],
+   [
+    "D",
+    "timed ripple"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "The _________ table provides the value of the next output when the inputs and the present output are known, which is exactly the information needed to design the counter or any sequential circuit.",
+  "opts": [
+   [
+    "A",
+    "excitation"
+   ],
+   [
+    "B",
+    "Kenough"
+   ],
+   [
+    "C",
+    "J-K flip-flop"
+   ],
+   [
+    "D",
+    "FPGA"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Boolean Algebra & Digital Logic",
+  "type": "mcq",
+  "q": "A _________ is a PLD featuring a general structure that allows very high logic capacity and offers more narrow logic resources and a higher ration of flip-flops to logic resources than do CPLDs.",
+  "opts": [
+   [
+    "A",
+    "SPLD"
+   ],
+   [
+    "B",
+    "FPGA"
+   ],
+   [
+    "C",
+    "PAL"
+   ],
+   [
+    "D",
+    "PLA"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "One boundary where the computer designer and the computer programmer can view the same machine is the machine instruction set.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "The operation to be performed is specified by a binary code known as the operation code.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "The address of the next instruction to be fetched must be a real address, not a virtual address.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "It has become common practice to use a symbolic representation of machine instructions.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "A high-level language expresses operations in a basic form involving the movement of data to or from registers.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "One of the traditional ways of describing processor architecture is in terms of the number of addresses contained in each instruction.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "Memory references are faster than register references.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "The instruction set is the programmer's means of controlling the processor.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "Addresses are a form of data.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "Not all machine languages include numeric data types.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "ARM processors support data types of 8 (byte), 16 (halfword), and 32 (word) bits in length.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "Most machines provide the basic arithmetic operations of add, subtract, multiply, and divide.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "A branch can be either forward or backward.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "Procedures do not allow programming tasks to be subdivided into smaller units.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "tf",
+  "q": "The focus of MMX technology is multimedia programming.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "The ________ specifies the operation to be performed.",
+  "opts": [
+   [
+    "A",
+    "source operand reference"
+   ],
+   [
+    "B",
+    "opcode"
+   ],
+   [
+    "C",
+    "next instruction reference"
+   ],
+   [
+    "D",
+    "processor register"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "A(n) _________ expresses operations in a concise algebraic form using variables.",
+  "opts": [
+   [
+    "A",
+    "opcode"
+   ],
+   [
+    "B",
+    "high-level language"
+   ],
+   [
+    "C",
+    "machine language"
+   ],
+   [
+    "D",
+    "register"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "There must be ________ instructions for moving data between memory and the registers.",
+  "opts": [
+   [
+    "A",
+    "branch"
+   ],
+   [
+    "B",
+    "logic"
+   ],
+   [
+    "C",
+    "memory"
+   ],
+   [
+    "D",
+    "I/O"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "________ instructions operate on the bits of a word as bits rather than as numbers, providing capabilities for processing any other type of data the user may wish to employ.",
+  "opts": [
+   [
+    "A",
+    "Logic"
+   ],
+   [
+    "B",
+    "Arithmetic"
+   ],
+   [
+    "C",
+    "Memory"
+   ],
+   [
+    "D",
+    "Test"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "_________ instructions provide computational capabilities for processing number data.",
+  "opts": [
+   [
+    "A",
+    "Boolean"
+   ],
+   [
+    "B",
+    "Logic"
+   ],
+   [
+    "C",
+    "Memory"
+   ],
+   [
+    "D",
+    "Arithmetic"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "_______ instructions are needed to transfer programs and data into memory and the results of computations back out to the user.",
+  "opts": [
+   [
+    "A",
+    "I/O"
+   ],
+   [
+    "B",
+    "Transfer"
+   ],
+   [
+    "C",
+    "Control"
+   ],
+   [
+    "D",
+    "Branch"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "The x86 data type that is a signed binary value contained in a byte, word, or doubleword, using twos complement representation is _________.",
+  "opts": [
+   [
+    "A",
+    "general"
+   ],
+   [
+    "B",
+    "ordinal"
+   ],
+   [
+    "C",
+    "integer"
+   ],
+   [
+    "D",
+    "packed BCD"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "The most fundamental type of machine instruction is the _________ instruction.",
+  "opts": [
+   [
+    "A",
+    "conversion"
+   ],
+   [
+    "B",
+    "data transfer"
+   ],
+   [
+    "C",
+    "arithmetic"
+   ],
+   [
+    "D",
+    "logical"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "The _________ instruction includes an implied address.",
+  "opts": [
+   [
+    "A",
+    "skip"
+   ],
+   [
+    "B",
+    "rotate"
+   ],
+   [
+    "C",
+    "stack"
+   ],
+   [
+    "D",
+    "push"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "Which of the following is a true statement?",
+  "opts": [
+   [
+    "A",
+    "a procedure can be called from more than one location"
+   ],
+   [
+    "B",
+    "a procedure call can appear in a procedure"
+   ],
+   [
+    "C",
+    "each procedure call is matched by a return in the called program"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "The entire set of parameters, including return address, which is stored for a procedure invocation is referred to as a _________.",
+  "opts": [
+   [
+    "A",
+    "branch"
+   ],
+   [
+    "B",
+    "stack frame"
+   ],
+   [
+    "C",
+    "pop"
+   ],
+   [
+    "D",
+    "push"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "Which ARM operation category includes logical instructions (AND, OR, XOR), add and subtract instructions, and test and compare instructions?",
+  "opts": [
+   [
+    "A",
+    "data-processing instructions"
+   ],
+   [
+    "B",
+    "branch instructions"
+   ],
+   [
+    "C",
+    "load and store instructions"
+   ],
+   [
+    "D",
+    "extend instructions"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "In the ARM architecture only _________ instructions access memory locations.",
+  "opts": [
+   [
+    "A",
+    "data processing"
+   ],
+   [
+    "B",
+    "status register access"
+   ],
+   [
+    "C",
+    "load and store"
+   ],
+   [
+    "D",
+    "branch"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "Which data type is defined in MMX?",
+  "opts": [
+   [
+    "A",
+    "packed byte"
+   ],
+   [
+    "B",
+    "packed word"
+   ],
+   [
+    "C",
+    "packed doubleword"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Characteristics & Functions",
+  "type": "mcq",
+  "q": "A branch instruction in which the branch is always taken is _________.",
+  "opts": [
+   [
+    "A",
+    "conditional branch"
+   ],
+   [
+    "B",
+    "unconditional branch"
+   ],
+   [
+    "C",
+    "jump"
+   ],
+   [
+    "D",
+    "bi-endian"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "The value of the mode field determines which addressing mode is to be used.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "In a system without virtual memory, the effective address is a virtual address or a register.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "The disadvantage of immediate addressing is that the size of the number is restricted to the size of the address field.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "With direct addressing, the length of the address field is usually less than the word length, thus limiting the address range.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Register addressing is similar to direct addressing with the only difference being that the address field refers to a register rather than a main memory address.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Register indirect addressing uses the same number of memory references as indirect addressing.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Three of the most common uses of stack addressing are relative addressing, base- register addressing, and indexing.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "The method of calculating the EA is the same for both base-register addressing and indexing.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Typically an instruction set will include both preindexing and postindexing.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "The x86 is equipped with a variety of addressing modes intended to allow the efficient execution of high-level languages.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "The base with index and displacement mode sums the contents of the base register, the index register, and a displacement to form the effective address.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "The memory transfer rate has not kept up with increases in processor speed.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "For addresses that reference memory the range of addresses that can be referenced is not related to the number of address bits.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "The principal price to pay for variable-length instructions is an increase in the complexity of the processor.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "One advantage of linking the addressing mode to the operand rather than the opcode is that any addressing mode can be used with any opcode.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The advantage of __________ is that no memory reference other than the instruction fetch is required to obtain the operand.",
+  "opts": [
+   [
+    "A",
+    "direct addressing"
+   ],
+   [
+    "B",
+    "immediate addressing"
+   ],
+   [
+    "C",
+    "register addressing"
+   ],
+   [
+    "D",
+    "stack addressing"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The principal advantage of ___________ addressing is that it is a very simple form of addressing.",
+  "opts": [
+   [
+    "A",
+    "displacement"
+   ],
+   [
+    "B",
+    "register"
+   ],
+   [
+    "C",
+    "stack"
+   ],
+   [
+    "D",
+    "direct"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "__________ has the advantage of large address space, however it has the disadvantage of multiple memory references.",
+  "opts": [
+   [
+    "A",
+    "Indirect addressing"
+   ],
+   [
+    "B",
+    "Direct addressing"
+   ],
+   [
+    "C",
+    "Immediate addressing"
+   ],
+   [
+    "D",
+    "Stack addressing"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The advantages of _________ addressing are that only a small address field is needed in the instruction and no time-consuming memory references are required.",
+  "opts": [
+   [
+    "A",
+    "direct"
+   ],
+   [
+    "B",
+    "indirect"
+   ],
+   [
+    "C",
+    "register"
+   ],
+   [
+    "D",
+    "displacement"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "__________ has the advantage of flexibility, but the disadvantage of complexity.",
+  "opts": [
+   [
+    "A",
+    "Stack addressing"
+   ],
+   [
+    "B",
+    "Displacement addressing"
+   ],
+   [
+    "C",
+    "Direct addressing"
+   ],
+   [
+    "D",
+    "Register addressing"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "For _________, the address field references a main memory address and the referenced register contains a positive displacement from that address.",
+  "opts": [
+   [
+    "A",
+    "indexing"
+   ],
+   [
+    "B",
+    "base-register addressing"
+   ],
+   [
+    "C",
+    "relative addressing"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Indexing performed after the indirection is __________.",
+  "opts": [
+   [
+    "A",
+    "relative addressing"
+   ],
+   [
+    "B",
+    "autoindexing"
+   ],
+   [
+    "C",
+    "postindexing"
+   ],
+   [
+    "D",
+    "preindexing"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "For the _________ mode, the operand is included in the instruction.",
+  "opts": [
+   [
+    "A",
+    "immediate"
+   ],
+   [
+    "B",
+    "base"
+   ],
+   [
+    "C",
+    "register"
+   ],
+   [
+    "D",
+    "displacement"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The only form of addressing for branch instructions is _________ addressing.",
+  "opts": [
+   [
+    "A",
+    "register"
+   ],
+   [
+    "B",
+    "relative"
+   ],
+   [
+    "C",
+    "base"
+   ],
+   [
+    "D",
+    "immediate"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Which of the following interrelated factors go into determining the use of the addressing bits?",
+  "opts": [
+   [
+    "A",
+    "number of operands"
+   ],
+   [
+    "B",
+    "number of register sets"
+   ],
+   [
+    "C",
+    "address range"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "_________ is a principle by which two variables are independent of each other.",
+  "opts": [
+   [
+    "A",
+    "Opcode"
+   ],
+   [
+    "B",
+    "Orthogonality"
+   ],
+   [
+    "C",
+    "Completeness"
+   ],
+   [
+    "D",
+    "Autoindexing"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The _________ was designed to provide a powerful and flexible instruction set within the constraints of a 16-bit minicomputer.",
+  "opts": [
+   [
+    "A",
+    "PDP-1"
+   ],
+   [
+    "B",
+    "PDP-8"
+   ],
+   [
+    "C",
+    "PDP-11"
+   ],
+   [
+    "D",
+    "PDP-10"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The __________ byte consists of three fields: the Scale field, the Index field and the Base field.",
+  "opts": [
+   [
+    "A",
+    "SIB"
+   ],
+   [
+    "B",
+    "VAX"
+   ],
+   [
+    "C",
+    "PDP-11"
+   ],
+   [
+    "D",
+    "ModR/M"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "All instructions in the ARM architecture are __________ bits long and follow a regular format.",
+  "opts": [
+   [
+    "A",
+    "8"
+   ],
+   [
+    "B",
+    "16"
+   ],
+   [
+    "C",
+    "32"
+   ],
+   [
+    "D",
+    "64"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Instruction Sets: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "__________ is a design principle employed in designing the PDP-10 instruction set.",
+  "opts": [
+   [
+    "A",
+    "Orthogonality"
+   ],
+   [
+    "B",
+    "Completeness"
+   ],
+   [
+    "C",
+    "Direct addressing"
+   ],
+   [
+    "D",
+    "All of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "The processor needs to store instructions and data temporarily while an instruction is being executed.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "The control unit (CU) does the actual computation or processing of data.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "Within the processor there is a set of registers that function as a level of memory above main memory and cache in the hierarchy.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "Condition codes facilitate multiway branches.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "The allocation of control information between registers and memory are not considered to be a key design issue.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "Instruction pipelining is a powerful technique for enhancing performance but requires careful design to achieve optimum results with reasonable complexity.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "The cycle time of an instruction pipeline is the time needed to advance a set of instructions one stage through the pipeline.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "A control hazard occurs when two or more instructions that are already in the pipeline need the same resource.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "One of the major problems in designing an instruction pipeline is assuring a steady flow of instructions to the initial stages of the pipeline.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "The predict-never-taken approach is the most popular of all the branch prediction methods.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "It is possible to improve pipeline performance by automatically rearranging instructions within a program so that branch instructions occur later than actually desired.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "Interrupt processing allows an application program to be suspended in order that a variety of interrupt conditions can be serviced and later resumed.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "An interrupt is generated from software and it is provoked by the execution of an instruction.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "While the processor is in user mode the program being executed is unable to access protected system resources or to change mode, other than by causing an exception to occur.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "tf",
+  "q": "The exception modes have full access to system resources and can change modes freely.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "__________ are a set of storage locations.",
+  "opts": [
+   [
+    "A",
+    "Processors"
+   ],
+   [
+    "B",
+    "PSWs"
+   ],
+   [
+    "C",
+    "Registers"
+   ],
+   [
+    "D",
+    "Control units"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "The ________ controls the movement of data and instructions into and out of the processor.",
+  "opts": [
+   [
+    "A",
+    "control unit"
+   ],
+   [
+    "B",
+    "ALU"
+   ],
+   [
+    "C",
+    "shifter"
+   ],
+   [
+    "D",
+    "branch"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "________ registers may be used only to hold data and cannot be employed in the calculation of an operand address.",
+  "opts": [
+   [
+    "A",
+    "General purpose"
+   ],
+   [
+    "B",
+    "Data"
+   ],
+   [
+    "C",
+    "Address"
+   ],
+   [
+    "D",
+    "Condition code"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "__________ are bits set by the processor hardware as the result of operations.",
+  "opts": [
+   [
+    "A",
+    "MIPS"
+   ],
+   [
+    "B",
+    "Condition codes"
+   ],
+   [
+    "C",
+    "Stacks"
+   ],
+   [
+    "D",
+    "PSWs"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "The _________ contains the address of an instruction to be fetched.",
+  "opts": [
+   [
+    "A",
+    "instruction register"
+   ],
+   [
+    "B",
+    "memory address register"
+   ],
+   [
+    "C",
+    "memory buffer register"
+   ],
+   [
+    "D",
+    "program counter"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "The _________ contains a word of data to be written to memory or the word most recently read.",
+  "opts": [
+   [
+    "A",
+    "MAR"
+   ],
+   [
+    "B",
+    "PC"
+   ],
+   [
+    "C",
+    "MBR"
+   ],
+   [
+    "D",
+    "IR"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "The ________ determines the opcode and the operand specifiers.",
+  "opts": [
+   [
+    "A",
+    "decode instruction"
+   ],
+   [
+    "B",
+    "fetch operands"
+   ],
+   [
+    "C",
+    "calculate operands"
+   ],
+   [
+    "D",
+    "execute instruction"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "_________ is a pipeline hazard.",
+  "opts": [
+   [
+    "A",
+    "Control"
+   ],
+   [
+    "B",
+    "Resource"
+   ],
+   [
+    "C",
+    "Data"
+   ],
+   [
+    "D",
+    "All of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "A ________ hazard occurs when there is a conflict in the access of an operand location.",
+  "opts": [
+   [
+    "A",
+    "resource"
+   ],
+   [
+    "B",
+    "data"
+   ],
+   [
+    "C",
+    "structural"
+   ],
+   [
+    "D",
+    "control"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "A _________ is a small, very-high-speed memory maintained by the instruction fetch stage of the pipeline and containing the n most recently fetched instructions in sequence.",
+  "opts": [
+   [
+    "A",
+    "loop buffer"
+   ],
+   [
+    "B",
+    "delayed branch"
+   ],
+   [
+    "C",
+    "multiple stream"
+   ],
+   [
+    "D",
+    "branch prediction"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "The _________ is a small cache memory associated with the instruction fetch stage of the pipeline.",
+  "opts": [
+   [
+    "A",
+    "dynamic branch"
+   ],
+   [
+    "B",
+    "loop table"
+   ],
+   [
+    "C",
+    "branch history table"
+   ],
+   [
+    "D",
+    "flag"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "The _________ stage includes ALU operations, cache access, and register update.",
+  "opts": [
+   [
+    "A",
+    "decode"
+   ],
+   [
+    "B",
+    "execute"
+   ],
+   [
+    "C",
+    "fetch"
+   ],
+   [
+    "D",
+    "write back"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "________ is used for debugging.",
+  "opts": [
+   [
+    "A",
+    "Direction flag"
+   ],
+   [
+    "B",
+    "Alignment check"
+   ],
+   [
+    "C",
+    "Trap flag"
+   ],
+   [
+    "D",
+    "Identification flag"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "The ARM architecture supports _______ execution modes.",
+  "opts": [
+   [
+    "A",
+    "2"
+   ],
+   [
+    "B",
+    "8"
+   ],
+   [
+    "C",
+    "11"
+   ],
+   [
+    "D",
+    "7"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "Processor Structure & Function, Pipelining",
+  "type": "mcq",
+  "q": "The OS usually runs in ________.",
+  "opts": [
+   [
+    "A",
+    "supervisor mode"
+   ],
+   [
+    "B",
+    "abort mode"
+   ],
+   [
+    "C",
+    "undefined mode"
+   ],
+   [
+    "D",
+    "fast interrupt mode"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "Microprogramming eases the task of designing and implementing the control unit and provides support for the family concept.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "Pipelining is a means of introducing parallelism into the essentially sequential nature of a machine-instruction program.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "The major cost in the life cycle of a system is hardware.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "It is common for programs, both system and application, to continue to exhibit new bugs after years of operation.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "Procedure calls and returns are not important aspects of HLL programs.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "The register file is on the same chip as the ALU and control unit.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "The register file employs much shorter addresses than addresses for cache and memory.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "To handle any possible pattern of calls and returns the number of register windows would have to be unbounded.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "Cache memory is a much faster memory than the register file.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "The cache is capable of handling global as well as local variables.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "When using graph coloring, nodes that share the same color cannot be assigned to the same register.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "With simple, one cycle instructions, there is little or no need for microcode.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "Almost all RISC instructions use simple register addressing.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "RISC processors are more responsive to interrupts because interrupts are checked between rather elementary operations.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "tf",
+  "q": "Unrolling can improve performance by increasing instruction parallelism by improving pipeline performance.",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "_________ determines the control and pipeline organization.",
+  "opts": [
+   [
+    "A",
+    "Calculation"
+   ],
+   [
+    "B",
+    "Execution sequencing"
+   ],
+   [
+    "C",
+    "Operations performed"
+   ],
+   [
+    "D",
+    "Operands used"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "The Patterson study examined the dynamic behavior of _________ programs, independent of the underlying architecture.",
+  "opts": [
+   [
+    "A",
+    "HLL"
+   ],
+   [
+    "B",
+    "RISC"
+   ],
+   [
+    "C",
+    "CISC"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "_________ is the fastest available storage device.",
+  "opts": [
+   [
+    "A",
+    "Main memory"
+   ],
+   [
+    "B",
+    "Cache"
+   ],
+   [
+    "C",
+    "Register storage"
+   ],
+   [
+    "D",
+    "HLL"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "The first commercial RISC product was _________.",
+  "opts": [
+   [
+    "A",
+    "SPARC"
+   ],
+   [
+    "B",
+    "CISC"
+   ],
+   [
+    "C",
+    "VAX"
+   ],
+   [
+    "D",
+    "the Pyramid"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "_________ instructions are used to position quantities in registers temporarily for computational operations.",
+  "opts": [
+   [
+    "A",
+    "Load-and-store"
+   ],
+   [
+    "B",
+    "Window"
+   ],
+   [
+    "C",
+    "Complex"
+   ],
+   [
+    "D",
+    "Branch"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "Which stage is required for load and store operations?",
+  "opts": [
+   [
+    "A",
+    "I"
+   ],
+   [
+    "B",
+    "E"
+   ],
+   [
+    "C",
+    "D"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "A ________ instruction can be used to account for data and branch delays.",
+  "opts": [
+   [
+    "A",
+    "SUB"
+   ],
+   [
+    "B",
+    "NOOP"
+   ],
+   [
+    "C",
+    "JUMP"
+   ],
+   [
+    "D",
+    "all of the above"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "The instruction location immediately following the delayed branch is referred to as the ________.",
+  "opts": [
+   [
+    "A",
+    "delay load"
+   ],
+   [
+    "B",
+    "delay file"
+   ],
+   [
+    "C",
+    "delay slot"
+   ],
+   [
+    "D",
+    "delay register"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "A tactic similar to the delayed branch is the _________, which can be used on LOAD instructions.",
+  "opts": [
+   [
+    "A",
+    "delayed load"
+   ],
+   [
+    "B",
+    "delayed program"
+   ],
+   [
+    "C",
+    "delayed slot"
+   ],
+   [
+    "D",
+    "delayed register"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "The MIPS R4000 uses ________ bits for all internal and external data paths and for addresses, registers, and the ALU.",
+  "opts": [
+   [
+    "A",
+    "16"
+   ],
+   [
+    "B",
+    "32"
+   ],
+   [
+    "C",
+    "64"
+   ],
+   [
+    "D",
+    "128"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "All MIPS R series processor instructions are encoded in a single ________ word format.",
+  "opts": [
+   [
+    "A",
+    "4-bit"
+   ],
+   [
+    "B",
+    "8-bit"
+   ],
+   [
+    "C",
+    "16-bit"
+   ],
+   [
+    "D",
+    "32-bit"
+   ]
+  ],
+  "ans": "D",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "A _________ architecture is one that makes use of more, and more fine-grained pipeline stages.",
+  "opts": [
+   [
+    "A",
+    "parallel"
+   ],
+   [
+    "B",
+    "superpipelined"
+   ],
+   [
+    "C",
+    "superscalar"
+   ],
+   [
+    "D",
+    "hybrid"
+   ]
+  ],
+  "ans": "B",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "The R4000 can have as many as _______ instructions in the pipeline at the same time.",
+  "opts": [
+   [
+    "A",
+    "8"
+   ],
+   [
+    "B",
+    "10"
+   ],
+   [
+    "C",
+    "5"
+   ],
+   [
+    "D",
+    "3"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "SPARC refers to an architecture defined by ________.",
+  "opts": [
+   [
+    "A",
+    "Microsoft"
+   ],
+   [
+    "B",
+    "Apple"
+   ],
+   [
+    "C",
+    "Sun Microsystems"
+   ],
+   [
+    "D",
+    "IBM"
+   ]
+  ],
+  "ans": "C",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ },
+ {
+  "sec": "RISC (Reduced Instruction Set Computers)",
+  "type": "mcq",
+  "q": "The R4000 pipeline stage where the instruction result is written back to the register file is the __________ stage.",
+  "opts": [
+   [
+    "A",
+    "write back"
+   ],
+   [
+    "B",
+    "tag check"
+   ],
+   [
+    "C",
+    "data cache"
+   ],
+   [
+    "D",
+    "instruction execute"
+   ]
+  ],
+  "ans": "A",
+  "origin": "doctor",
+  "note": "",
+  "page": null
+ }
+]

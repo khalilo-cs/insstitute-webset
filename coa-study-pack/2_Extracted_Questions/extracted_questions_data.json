@@ -1,0 +1,4653 @@
+[
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "A computer architecture describes what a computer should do, while computer organization describes how it works.",
+  "exp": "Architecture = ماذا يفعل، Organization = كيف يعمل.",
+  "ref": "المصدر: Ch1 study guide §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "Computer organization is designed first, and computer architecture is started after the organization is finalized.",
+  "exp": "العكس: المعمارية تُصمَّم أولاً ثم يبدأ التنظيم.",
+  "ref": "المصدر: Ch1 study guide §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "In the Von Neumann model the program is stored in memory and its instructions are executed sequentially.",
+  "exp": "من خصائص Von Neumann الأساسية.",
+  "ref": "المصدر: Ch1 study guide §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "The system bus consists of the control bus, the address bus and the data bus.",
+  "exp": "system bus = control + address + data.",
+  "ref": "المصدر: Ch1 study guide §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "The core is a physical piece of silicon that contains one or more processors.",
+  "exp": "العكس: الـ processor قطعة سيليكون تحتوي core واحداً أو أكثر.",
+  "ref": "المصدر: Ch1 study guide §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "The IAS computer completed in 1952 introduced the stored program concept attributed to John von Neumann.",
+  "exp": "IAS: stored program concept، اكتمل 1952.",
+  "ref": "المصدر: Ch1 study guide §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "An IAS instruction word is 40 bits long and contains two 20-bit instructions.",
+  "exp": "كل تعليمة = 8 بت opcode + 12 بت address.",
+  "ref": "المصدر: Ch1 study guide §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "The IAS Instruction Register (IR) holds the 8-bit opcode of the instruction being executed.",
+  "exp": "IR يحمل opcode من 8 بتات.",
+  "ref": "المصدر: Ch1 study guide §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "The transistor was invented at Bell Labs in 1958.",
+  "exp": "الترانزستور 1947؛ الدارة المتكاملة 1958.",
+  "ref": "المصدر: Ch1 study guide §7.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "Data channels were introduced in second-generation computers such as the IBM 7094.",
+  "exp": "وحدة I/O مستقلة لها معالج وتعليمات خاصة.",
+  "ref": "المصدر: Ch1 study guide §7.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "The integrated circuit was invented in 1958 and defines the third generation of computers.",
+  "exp": "الجيل الثالث = Integrated Circuits.",
+  "ref": "المصدر: Ch1 study guide §7.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "Moore's Law states that the number of transistors on a chip doubles about every 18 months (since the 1970s).",
+  "exp": "في السبعينات أصبح التضاعف كل 18 شهراً.",
+  "ref": "المصدر: Ch1 study guide §7.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "The Intel 8080 was the first chip to contain all CPU components on a single chip.",
+  "exp": "هذا هو Intel 4004 (1971)؛ 8080 هو أول general-purpose microprocessor.",
+  "ref": "المصدر: Ch1 study guide §7.4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "An embedded system usually has a fixed function that is specific to its application.",
+  "exp": "بخلاف الحاسوب العام الغرض.",
+  "ref": "المصدر: Ch1 study guide §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "In SaaS the client manages the operating system and the database.",
+  "exp": "في SaaS المزوّد (CSP) يدير كل شيء.",
+  "ref": "المصدر: Ch1 study guide §10",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "tf",
+  "q": "A microcontroller is a single chip containing the processor, ROM, RAM, a clock and an I/O control unit.",
+  "exp": "computer on a chip.",
+  "ref": "المصدر: Ch1 study guide §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "Which statement describes computer architecture?",
+  "exp": "Architecture = visible to the programmer.",
+  "ref": "المصدر: Ch1 study guide §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "The memory technology used"
+   ],
+   [
+    "B",
+    "Control signals between components"
+   ],
+   [
+    "C",
+    "Attributes visible to the programmer"
+   ],
+   [
+    "D",
+    "Hardware details transparent to the programmer"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "Which of the following is an organizational attribute?",
+  "exp": "Control signals تفصيل تنظيمي.",
+  "ref": "المصدر: Ch1 study guide §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Instruction set"
+   ],
+   [
+    "B",
+    "Addressing techniques"
+   ],
+   [
+    "C",
+    "Control signals"
+   ],
+   [
+    "D",
+    "Number of bits used for data types"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "The four main structural components of a computer are CPU, main memory, I/O and _________.",
+  "exp": "CPU, Main memory, I/O, System interconnection.",
+  "ref": "المصدر: Ch1 study guide §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "ALU"
+   ],
+   [
+    "B",
+    "system interconnection"
+   ],
+   [
+    "C",
+    "registers"
+   ],
+   [
+    "D",
+    "control unit"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "In the IAS computer, which register holds the right-hand instruction of a word temporarily?",
+  "exp": "IBR = Instruction Buffer Register.",
+  "ref": "المصدر: Ch1 study guide §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "MQ"
+   ],
+   [
+    "B",
+    "IBR"
+   ],
+   [
+    "C",
+    "MBR"
+   ],
+   [
+    "D",
+    "IR"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "Second-generation computers differ from the IAS computer mainly by the introduction of the _________.",
+  "exp": "Data channel (IBM 7094).",
+  "ref": "المصدر: Ch1 study guide §7.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "microprocessor"
+   ],
+   [
+    "B",
+    "cache"
+   ],
+   [
+    "C",
+    "data channel"
+   ],
+   [
+    "D",
+    "integrated circuit"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "Which building block of microelectronics stores one bit of data?",
+  "exp": "Gates = معالجة، Memory cells = تخزين، Interconnection = نقل.",
+  "ref": "المصدر: Ch1 study guide §7.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Interconnections"
+   ],
+   [
+    "B",
+    "Memory cells"
+   ],
+   [
+    "C",
+    "Gates"
+   ],
+   [
+    "D",
+    "Registers only"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "Which one is NOT a consequence of Moore's Law?",
+  "exp": "الصحيح: انخفاض الطاقة والتبريد.",
+  "ref": "المصدر: Ch1 study guide §7.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Fewer interchip connections"
+   ],
+   [
+    "B",
+    "Shorter electrical path length"
+   ],
+   [
+    "C",
+    "Lower cost of logic and memory"
+   ],
+   [
+    "D",
+    "Larger power and cooling requirements"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "The Intel 4004 (1971) is considered the birth of the _________.",
+  "exp": "أول CPU على شريحة واحدة.",
+  "ref": "المصدر: Ch1 study guide §7.4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "microprocessor"
+   ],
+   [
+    "B",
+    "supercomputer"
+   ],
+   [
+    "C",
+    "microcontroller"
+   ],
+   [
+    "D",
+    "mainframe"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "In which cloud model does the client manage ONLY the applications?",
+  "exp": "PaaS: التطبيقات فقط.",
+  "ref": "المصدر: Ch1 study guide §10",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "PaaS"
+   ],
+   [
+    "B",
+    "IaaS"
+   ],
+   [
+    "C",
+    "SaaS"
+   ],
+   [
+    "D",
+    "Traditional IT"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "mcq",
+  "q": "Which technologies help IoT objects to be identified and located?",
+  "exp": "RFID, WiFi, mobile networks, GPS.",
+  "ref": "المصدر: Ch1 study guide §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "RFID"
+   ],
+   [
+    "B",
+    "WiFi"
+   ],
+   [
+    "C",
+    "GPS"
+   ],
+   [
+    "D",
+    "All of the above"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "fib",
+  "q": "The mathematician attributed with the stored program concept is John _________.",
+  "exp": "",
+  "ref": "المصدر: Ch1 study guide §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "von Neumann"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "fib",
+  "q": "The IAS main memory runs from M(0) to M(_____).",
+  "exp": "4096 كلمة.",
+  "ref": "المصدر: Ch1 study guide §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "4095"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "fib",
+  "q": "An _________ system is the use of electronics and software within a product, as opposed to a general-purpose computer.",
+  "exp": "",
+  "ref": "المصدر: Ch1 study guide §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "embedded"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "fib",
+  "q": "IaaS stands for Infrastructure as a _________.",
+  "exp": "",
+  "ref": "المصدر: Ch1 study guide §10",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Service"
+ },
+ {
+  "sec": "Ch1: Computer Organization — Foundations",
+  "type": "fib",
+  "q": "The accumulator register of the IAS is abbreviated _________.",
+  "exp": "",
+  "ref": "المصدر: Ch1 study guide §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "AC"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "Pipelining reduces the execution time of each individual instruction.",
+  "exp": "يقلل زمن البرنامج الكلي لا زمن التعليمة الواحدة.",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "Superscalar execution uses multiple parallel pipelines.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "A superpipelined design divides pipeline stages into more granular sub-stages.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "Data flow analysis lets the processor create an optimized schedule by examining dependencies between instructions.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "An incorrect branch prediction can lead to discarded work and pipeline stalls.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "Speculative execution uses branch prediction and data flow analysis to execute instructions ahead of their appearance in the program.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "DRAM is generally much faster than the processor, so memory is never a bottleneck.",
+  "exp": "DRAM أبطأ بكثير من المعالج.",
+  "ref": "المصدر: Ch2 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "Making DRAM 'wider' rather than 'deeper' increases the number of bits retrieved at one time.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "The overall balance of the system is more important than the raw performance of a single component.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "In a multicore design the number of caches decreases as cores are added.",
+  "exp": "عدد الـ caches يزداد ولهذا ظهرت مستويات cache.",
+  "ref": "المصدر: Ch2 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "MIC architectures feature a large number of homogeneous general-purpose processors on a single chip.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "tf",
+  "q": "A GPU was traditionally designed for graphics processing.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "mcq",
+  "q": "Which technique focuses on issuing multiple instructions simultaneously per clock cycle?",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Data flow analysis"
+   ],
+   [
+    "B",
+    "Superscalar execution"
+   ],
+   [
+    "C",
+    "Superpipelining"
+   ],
+   [
+    "D",
+    "Branch prediction"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "mcq",
+  "q": "Pipelining is best compared to _________.",
+  "exp": "assembly line.",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "a faster clock only"
+   ],
+   [
+    "B",
+    "a single worker doing every task"
+   ],
+   [
+    "C",
+    "an assembly line"
+   ],
+   [
+    "D",
+    "a larger cache"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "mcq",
+  "q": "Which is one of the three approaches to overcome the processor–memory speed imbalance?",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Use narrower buses"
+   ],
+   [
+    "B",
+    "Increase the interconnect bandwidth"
+   ],
+   [
+    "C",
+    "Reduce the number of registers"
+   ],
+   [
+    "D",
+    "Remove the cache"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "mcq",
+  "q": "Increasing the number of bits retrieved at one time is achieved by making DRAMs _________.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "deeper"
+   ],
+   [
+    "B",
+    "smaller"
+   ],
+   [
+    "C",
+    "wider"
+   ],
+   [
+    "D",
+    "slower"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "mcq",
+  "q": "Which is NOT a way to improve chip organization and architecture?",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Graphics Processing Unit (GPU)"
+   ],
+   [
+    "B",
+    "Reduce the number of gates"
+   ],
+   [
+    "C",
+    "Multicore"
+   ],
+   [
+    "D",
+    "Increase the size and speed of caches"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "mcq",
+  "q": "As caches became larger, designers created _________.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "only off-chip cache"
+   ],
+   [
+    "B",
+    "no cache"
+   ],
+   [
+    "C",
+    "two and then three levels of cache"
+   ],
+   [
+    "D",
+    "one level of cache"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "mcq",
+  "q": "The strategy of multicore is to use _________.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "one very complex processor"
+   ],
+   [
+    "B",
+    "two simpler processors on the chip instead of one complex processor"
+   ],
+   [
+    "C",
+    "only GPUs"
+   ],
+   [
+    "D",
+    "a bigger clock"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "fib",
+  "q": "_________ analysis examines which instructions depend on each other's results to build an optimized schedule.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Data flow"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "fib",
+  "q": "The three approaches to the memory imbalance are: wider DRAM, reduce access frequency (cache), and increase the _________ bandwidth.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "interconnect"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "fib",
+  "q": "Processor chips with a large number of homogeneous general-purpose cores are called _________ (abbreviation).",
+  "exp": "Many Integrated Core.",
+  "ref": "المصدر: Ch2 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "MIC"
+ },
+ {
+  "sec": "Ch2: Performance Issues",
+  "type": "fib",
+  "q": "Branch prediction, pipelining and superscalar execution are techniques used to speed up the _________.",
+  "exp": "",
+  "ref": "المصدر: Ch2 notes §2-3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "microprocessor"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "The I/OAR register specifies a particular I/O device.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "The four categories of computer actions are processor-memory, processor-I/O, data processing and control.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "The instruction cycle state diagram has seven states.",
+  "exp": "if, iod, oac, of, do, os, iac.",
+  "ref": "المصدر: Ch3 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "Operand address calculation appears twice in the instruction cycle diagram.",
+  "exp": "مرة لجلب المعامل ومرة لتخزين النتيجة.",
+  "ref": "المصدر: Ch3 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "The interrupt check step is performed after the operand store.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "A timer interrupt is generated by an I/O controller.",
+  "exp": "Timer interrupt من مؤقّت داخل المعالج.",
+  "ref": "المصدر: Ch3 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "A power failure generates a hardware failure interrupt.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "DMA relieves the processor of responsibility for the I/O exchange.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "If two devices transmit on a bus during the same time period, their signals overlap and become garbled.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "The width of the data bus has no effect on system performance.",
+  "exp": "عرض الـ data bus عامل رئيسي في الأداء.",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "Address lines are generally also used to address I/O ports.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "tf",
+  "q": "The Bus grant control line indicates that a pending interrupt has been recognized.",
+  "exp": "هذه Interrupt ACK؛ Bus grant تعني أن الـ bus مُنِح لوحدة.",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "mcq",
+  "q": "Which register contains the data to be written into memory or receives the data read from memory?",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "MAR"
+   ],
+   [
+    "B",
+    "MBR"
+   ],
+   [
+    "C",
+    "I/OAR"
+   ],
+   [
+    "D",
+    "PC"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "mcq",
+  "q": "The state that analyzes the instruction to determine the type of operation and operands is _________.",
+  "exp": "iod.",
+  "ref": "المصدر: Ch3 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "instruction operation decoding"
+   ],
+   [
+    "B",
+    "data operation"
+   ],
+   [
+    "C",
+    "operand fetch"
+   ],
+   [
+    "D",
+    "instruction fetch"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "mcq",
+  "q": "Which state writes the result into memory or out to I/O?",
+  "exp": "os.",
+  "ref": "المصدر: Ch3 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "instruction fetch"
+   ],
+   [
+    "B",
+    "data operation"
+   ],
+   [
+    "C",
+    "operand store"
+   ],
+   [
+    "D",
+    "operand fetch"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "mcq",
+  "q": "An interrupt generated by division by zero belongs to the _________ class.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "program"
+   ],
+   [
+    "B",
+    "timer"
+   ],
+   [
+    "C",
+    "I/O"
+   ],
+   [
+    "D",
+    "hardware failure"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "mcq",
+  "q": "Which control line indicates that a module needs to gain control of the bus?",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Bus request"
+   ],
+   [
+    "B",
+    "Transfer ACK"
+   ],
+   [
+    "C",
+    "Bus grant"
+   ],
+   [
+    "D",
+    "Reset"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "mcq",
+  "q": "Which control line is used to synchronize operations?",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Clock"
+   ],
+   [
+    "B",
+    "Reset"
+   ],
+   [
+    "C",
+    "Memory read"
+   ],
+   [
+    "D",
+    "Interrupt request"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "mcq",
+  "q": "Which control line initializes all modules?",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Clock"
+   ],
+   [
+    "B",
+    "Transfer ACK"
+   ],
+   [
+    "C",
+    "Bus grant"
+   ],
+   [
+    "D",
+    "Reset"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "mcq",
+  "q": "The number of lines of the data bus is called its _________.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "length"
+   ],
+   [
+    "B",
+    "width"
+   ],
+   [
+    "C",
+    "speed"
+   ],
+   [
+    "D",
+    "depth"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "fib",
+  "q": "The processor-controlled sequence 'if, iod, oac, of, do, os, iac' is the instruction _________ state diagram.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "cycle"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "fib",
+  "q": "An interrupt is a signal that requests the processor to suspend its current execution and service the occurred interrupt, using an interrupt service _________.",
+  "exp": "ISR.",
+  "ref": "المصدر: Ch3 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "routine"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "fib",
+  "q": "_________ memory access allows I/O exchanges to occur directly with memory without tying up the processor (abbreviation).",
+  "exp": "Direct Memory Access.",
+  "ref": "المصدر: Ch3 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "DMA"
+ },
+ {
+  "sec": "Ch3: Function & Interconnection",
+  "type": "fib",
+  "q": "The _________ line indicates that data have been accepted from or placed on the bus.",
+  "exp": "",
+  "ref": "المصدر: Ch3 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Transfer ACK"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Internal memory is accessible by the processor via an I/O module.",
+  "exp": "هذه External memory.",
+  "ref": "المصدر: Ch4 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Sequential access has a variable access time that depends on the data location.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Random access has an access time that is constant, independent of prior accesses.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Disk access is an example of associative access.",
+  "exp": "القرص = Direct access.",
+  "ref": "المصدر: Ch4 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Cache is an example of associative access.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Going down the memory hierarchy, cost per bit decreases and access time increases.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Greater capacity of memory means faster access time.",
+  "exp": "سعة أكبر = أبطأ.",
+  "ref": "المصدر: Ch4 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Registers are managed by the compiler.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "Main memory is typically built from SRAM.",
+  "exp": "الذاكرة الرئيسية DRAM والـ cache SRAM.",
+  "ref": "المصدر: Ch4 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "A disk cache is a buffer in main memory that holds data for the disk.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "External nonvolatile memory is also called secondary or auxiliary memory.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "tf",
+  "q": "The unit of transfer of external memory is usually a block much larger than a word.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "mcq",
+  "q": "Tape is an example of _________ access.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "random"
+   ],
+   [
+    "B",
+    "sequential"
+   ],
+   [
+    "C",
+    "direct"
+   ],
+   [
+    "D",
+    "associative"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "mcq",
+  "q": "The smallest location that can be uniquely addressed is the _________.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "page"
+   ],
+   [
+    "B",
+    "block"
+   ],
+   [
+    "C",
+    "addressable unit"
+   ],
+   [
+    "D",
+    "sector"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "mcq",
+  "q": "The correct order of the hierarchy from fastest to slowest is _________.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Cache, registers, disk, main memory"
+   ],
+   [
+    "B",
+    "Registers, on-chip cache, main memory, disk"
+   ],
+   [
+    "C",
+    "Disk, main memory, cache, registers"
+   ],
+   [
+    "D",
+    "Registers, main memory, cache, disk"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "mcq",
+  "q": "The unit of transfer of a magnetic disk (secondary memory) is a _________.",
+  "exp": "512 bytes.",
+  "ref": "المصدر: Ch4 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "sector"
+   ],
+   [
+    "B",
+    "word"
+   ],
+   [
+    "C",
+    "cache block"
+   ],
+   [
+    "D",
+    "register"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "mcq",
+  "q": "Which is managed by the operating system?",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Registers"
+   ],
+   [
+    "B",
+    "Cache"
+   ],
+   [
+    "C",
+    "Main memory"
+   ],
+   [
+    "D",
+    "None of the above"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "mcq",
+  "q": "The memory design questions are 'How much? How fast? How _________?'",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "big"
+   ],
+   [
+    "B",
+    "expensive"
+   ],
+   [
+    "C",
+    "wide"
+   ],
+   [
+    "D",
+    "long"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "fib",
+  "q": "_________ access is based on a portion of the word's contents rather than its address.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Associative"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "fib",
+  "q": "The faster the access time, the _________ the cost per bit.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "greater"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "fib",
+  "q": "Off-line bulk memory typically uses magnetic _________.",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "tape"
+ },
+ {
+  "sec": "Ch4: Computer Memory System",
+  "type": "fib",
+  "q": "_________ memory is directly accessible by the processor (registers, cache, main memory).",
+  "exp": "",
+  "ref": "المصدر: Ch4 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Internal"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "The cache has far fewer lines than main memory has blocks.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "Each cache line holds one block plus a Tag.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "On a cache miss, loading the block into the cache line and delivering the word to the CPU happen in parallel.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "A logical cache is placed between the MMU and main memory.",
+  "exp": "هذا physical cache؛ الـ logical بين المعالج والـ MMU.",
+  "ref": "المصدر: Ch5 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "In direct mapping each main memory block can be loaded into only one possible cache line.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §5.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "Direct mapping needs a replacement algorithm.",
+  "exp": "لا يوجد خيار، فلا حاجة لخوارزمية.",
+  "ref": "المصدر: Ch5 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "In associative mapping the cache control logic examines every line's tag simultaneously.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §5.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "In set associative mapping m = v × k, where v is the number of sets and k the lines per set.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §5.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "LRU replaces the block that has experienced the fewest references.",
+  "exp": "هذا LFU.",
+  "ref": "المصدر: Ch5 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "FIFO can be implemented as a round-robin (circular buffer) technique.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "Write back makes all writes to both cache and main memory.",
+  "exp": "هذا write through.",
+  "ref": "المصدر: Ch5 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "Write back minimizes memory writes but makes I/O access more complex.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "tf",
+  "q": "The trend is split caches at L1 and unified caches at higher levels.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "mcq",
+  "q": "With direct mapping, the cache line number is obtained by _________.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §5.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "block number mod m"
+   ],
+   [
+    "B",
+    "block number × m"
+   ],
+   [
+    "C",
+    "block number + m"
+   ],
+   [
+    "D",
+    "block number / m"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "mcq",
+  "q": "Which mapping is a compromise between direct and associative mapping?",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §5.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Set associative"
+   ],
+   [
+    "B",
+    "Fully associative"
+   ],
+   [
+    "C",
+    "Logical"
+   ],
+   [
+    "D",
+    "Split"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "mcq",
+  "q": "Which replacement algorithm is the most popular because of its simple implementation and effectiveness?",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "FIFO"
+   ],
+   [
+    "B",
+    "Random"
+   ],
+   [
+    "C",
+    "LFU"
+   ],
+   [
+    "D",
+    "LRU"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "mcq",
+  "q": "The main disadvantage of write back is _________.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "no cache coherence issue"
+   ],
+   [
+    "B",
+    "low hit rate"
+   ],
+   [
+    "C",
+    "complex circuitry"
+   ],
+   [
+    "D",
+    "large memory traffic"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "mcq",
+  "q": "Which replacement algorithm can be implemented with a counter associated with each line?",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "LRU"
+   ],
+   [
+    "B",
+    "FIFO"
+   ],
+   [
+    "C",
+    "LFU"
+   ],
+   [
+    "D",
+    "Random"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "mcq",
+  "q": "L1 cache is usually _________.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "unified only"
+   ],
+   [
+    "B",
+    "internal to the processor"
+   ],
+   [
+    "C",
+    "external to the processor"
+   ],
+   [
+    "D",
+    "larger than L2"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "mcq",
+  "q": "The page table that translates virtual to physical addresses is managed by the _________.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "disk"
+   ],
+   [
+    "B",
+    "cache"
+   ],
+   [
+    "C",
+    "OS"
+   ],
+   [
+    "D",
+    "ALU"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "mcq",
+  "q": "Which of these is an element of cache design?",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Mapping function"
+   ],
+   [
+    "B",
+    "Replacement algorithm"
+   ],
+   [
+    "C",
+    "Write policy"
+   ],
+   [
+    "D",
+    "All of the above"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "fib",
+  "q": "In direct mapping, a block is placed in a line number computed as block number _____ m.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §5.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "mod"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "fib",
+  "q": "A word found in the cache is called a _________.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "hit"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "fib",
+  "q": "With _________ mapping any block can go into any line of the cache.",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §5.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "associative"
+ },
+ {
+  "sec": "Ch5: Cache Memory",
+  "type": "fib",
+  "q": "The hardware unit that translates virtual addresses to physical addresses is the _________ (abbreviation).",
+  "exp": "",
+  "ref": "المصدر: Ch5 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "MMU"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "A DRAM cell uses one capacitor and one transistor.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "An SRAM cell uses six transistors.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "DRAM is faster and more expensive than SRAM.",
+  "exp": "العكس.",
+  "ref": "المصدر: Ch6 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "SRAM is used for main memory.",
+  "exp": "SRAM للـ cache، DRAM للذاكرة الرئيسية.",
+  "ref": "المصدر: Ch6 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "DRAM values must be refreshed every 10–100 ms.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "ROM is nonvolatile and its data is wired into the chip during manufacturing.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "PROM can be written only once.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "EPROM is erased with UV light at chip level.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "Flash memory provides byte-level erasure.",
+  "exp": "Flash block-level.",
+  "ref": "المصدر: Ch6 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "Interleaved memory with K banks can service K requests simultaneously.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "A soft error causes permanent damage to the memory.",
+  "exp": "لا يسبب ضرراً دائماً.",
+  "ref": "المصدر: Ch6 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "A hard failure is a permanent physical defect.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "DDR-SDRAM sends data twice per clock cycle.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §11",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "tf",
+  "q": "CDRAM integrates a small SRAM cache of 16 Kb on a DRAM chip.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §11",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "Which memory type is volatile?",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "ROM"
+   ],
+   [
+    "B",
+    "Flash"
+   ],
+   [
+    "C",
+    "RAM"
+   ],
+   [
+    "D",
+    "EPROM"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "Which memory type is written only once electrically by the customer?",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "EPROM"
+   ],
+   [
+    "B",
+    "ROM"
+   ],
+   [
+    "C",
+    "EEPROM"
+   ],
+   [
+    "D",
+    "PROM"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "Which of the following is an error-correcting code method?",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Hamming code"
+   ],
+   [
+    "B",
+    "Parity method"
+   ],
+   [
+    "C",
+    "CRC"
+   ],
+   [
+    "D",
+    "All of the above"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "SDRAM is synchronized with the _________.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §11",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "cache"
+   ],
+   [
+    "B",
+    "disk"
+   ],
+   [
+    "C",
+    "bus request"
+   ],
+   [
+    "D",
+    "system clock"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "DDR transfers data on _________.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §11",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "only the falling edge"
+   ],
+   [
+    "B",
+    "no edge"
+   ],
+   [
+    "C",
+    "both rising and falling edges"
+   ],
+   [
+    "D",
+    "only the rising edge"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "Which memory is erased in blocks in a single 'flash' action?",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "PROM"
+   ],
+   [
+    "B",
+    "EPROM"
+   ],
+   [
+    "C",
+    "EEPROM"
+   ],
+   [
+    "D",
+    "Flash memory"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "mcq",
+  "q": "Which statement about SRAM is true?",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "It requires refresh"
+   ],
+   [
+    "B",
+    "It is slower than DRAM"
+   ],
+   [
+    "C",
+    "It is cheaper than DRAM"
+   ],
+   [
+    "D",
+    "It does not require refresh"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "fib",
+  "q": "DRAM stores each bit as a charge on a _________.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "capacitor"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "fib",
+  "q": "SRAM stores bits using _________ logic-gate configurations.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "flip-flop"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "fib",
+  "q": "The additional bits added to a memory word for error detection are _________ bits.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "parity"
+ },
+ {
+  "sec": "Ch6: Internal Memory",
+  "type": "fib",
+  "q": "DRAM chips grouped together form a memory _________.",
+  "exp": "",
+  "ref": "المصدر: Ch6 notes §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "bank"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "Each platter has two surfaces.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "Tracks are concentric rings and sectors are separated by gaps.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "The read/write head touches the disk surface in a Winchester disk.",
+  "exp": "الرأس يطفو على وسادة هوائية.",
+  "ref": "المصدر: Ch7 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "A fixed-head disk has one read/write head per track.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "A movable-head disk has one head per surface.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "A narrower head allows narrower tracks and greater data density.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "Glass substrate improves shock resistance and reduces surface defects.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "An SSD has moving mechanical parts.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "An SSD generally consumes less power than an HDD.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "SSD shock resistance is up to 1500g.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "CD capacity is about 700 MB and Blu-ray capacity ranges from 25 to 128 GB.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "tf",
+  "q": "CD-R can be written multiple times.",
+  "exp": "مرة واحدة فقط.",
+  "ref": "المصدر: Ch7 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "Which is NOT a head mechanism?",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Aerodynamic gap"
+   ],
+   [
+    "B",
+    "Sealed gap"
+   ],
+   [
+    "C",
+    "Contact"
+   ],
+   [
+    "D",
+    "Fixed gap"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "A removable disk provides _________.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "a fixed capacity"
+   ],
+   [
+    "B",
+    "unlimited storage capacity"
+   ],
+   [
+    "C",
+    "no data transfer"
+   ],
+   [
+    "D",
+    "less portability"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "The SSD controller is responsible for _________.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "spinning the platters"
+   ],
+   [
+    "B",
+    "managing the SSD"
+   ],
+   [
+    "C",
+    "generating light"
+   ],
+   [
+    "D",
+    "holding the data"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "Which is part of an SSD?",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Platter"
+   ],
+   [
+    "B",
+    "Spindle"
+   ],
+   [
+    "C",
+    "NAND flash memory"
+   ],
+   [
+    "D",
+    "Actuator arm"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "Which optical disc has the largest capacity?",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Blu-ray"
+   ],
+   [
+    "B",
+    "CD-ROM"
+   ],
+   [
+    "C",
+    "CD"
+   ],
+   [
+    "D",
+    "DVD"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "mcq",
+  "q": "Which optical disc type can be recorded once?",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "ROM"
+   ],
+   [
+    "B",
+    "R"
+   ],
+   [
+    "C",
+    "RW"
+   ],
+   [
+    "D",
+    "None"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "fib",
+  "q": "Disks rotate around a central _________.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "spindle"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "fib",
+  "q": "The head mechanism used in sealed drives that fly closest to the surface is the _________ gap (Winchester).",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "aerodynamic"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "fib",
+  "q": "A single-sided disk has the magnetic coating on _________ side only.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "one"
+ },
+ {
+  "sec": "Ch7: External Memory",
+  "type": "fib",
+  "q": "The abbreviation SSD stands for _________ State Drive.",
+  "exp": "",
+  "ref": "المصدر: Ch7 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Solid"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "In immediate addressing the operand is contained in the instruction.",
+  "exp": "Operand = A",
+  "ref": "المصدر: Ch14 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Direct addressing requires two memory references.",
+  "exp": "مرجع ذاكرة واحد.",
+  "ref": "المصدر: Ch14 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "In indirect addressing, EA = (A).",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "In register addressing the operand is in a register.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "In register indirect addressing, EA = (R).",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §6",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Relative addressing computes EA = A + (PC).",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "In base-register addressing the register holds the displacement and the address field holds the main memory address.",
+  "exp": "العكس: هذا indexing.",
+  "ref": "المصدر: Ch14 notes §7.2-7.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Indexing is an efficient mechanism for loops.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §7.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Stack addressing is a form of implied addressing.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Immediate addressing is used to implement pointers.",
+  "exp": "المؤشرات = indirect / register indirect.",
+  "ref": "المصدر: Ch14 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Relative addressing is useful for branch instructions.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "A mode field is used to tell the processor which addressing mode is used.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §10",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "tf",
+  "q": "Variable-length instructions increase the complexity of the processor.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §13",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Which addressing mode is used to initialize registers to a constant value?",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Indirect"
+   ],
+   [
+    "B",
+    "Immediate"
+   ],
+   [
+    "C",
+    "Direct"
+   ],
+   [
+    "D",
+    "Indexing"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Which addressing mode is used for recursive procedures?",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Immediate"
+   ],
+   [
+    "B",
+    "Direct"
+   ],
+   [
+    "C",
+    "Relative"
+   ],
+   [
+    "D",
+    "Base-register"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Which addressing mode is used for arrays and records?",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §9",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Register"
+   ],
+   [
+    "B",
+    "Stack"
+   ],
+   [
+    "C",
+    "Immediate"
+   ],
+   [
+    "D",
+    "Indexing"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "EA = A + (PC) belongs to _________ addressing.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §7.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "stack"
+   ],
+   [
+    "B",
+    "indirect"
+   ],
+   [
+    "C",
+    "direct"
+   ],
+   [
+    "D",
+    "relative"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Which mode needs two memory references to get the operand?",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Immediate"
+   ],
+   [
+    "B",
+    "Indirect"
+   ],
+   [
+    "C",
+    "Register"
+   ],
+   [
+    "D",
+    "Direct"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Which of the following is NOT a factor in allocating the addressing bits?",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §12",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Number of addressing modes"
+   ],
+   [
+    "B",
+    "Number of operands"
+   ],
+   [
+    "C",
+    "The screen resolution"
+   ],
+   [
+    "D",
+    "Address granularity"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "The instruction length should be equal to the memory-transfer length or _________.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §11",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "unrelated"
+   ],
+   [
+    "B",
+    "half of it"
+   ],
+   [
+    "C",
+    "a multiple of it"
+   ],
+   [
+    "D",
+    "random"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "mcq",
+  "q": "Which mode combines direct and register indirect capabilities?",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Stack"
+   ],
+   [
+    "B",
+    "Displacement"
+   ],
+   [
+    "C",
+    "Immediate"
+   ],
+   [
+    "D",
+    "Register"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "fib",
+  "q": "EA stands for _________ address.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Effective"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "fib",
+  "q": "In stack addressing the top of the stack is pointed to by the stack _________.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "pointer"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "fib",
+  "q": "The displacement addressing types are relative, base-register and _________.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §7",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "indexing"
+ },
+ {
+  "sec": "Ch14: Addressing Modes & Formats",
+  "type": "fib",
+  "q": "A stack is a _________ (LIFO) structure.",
+  "exp": "",
+  "ref": "المصدر: Ch14 notes §8",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "last-in-first-out"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "The ALU contains status flags, a shifter, a complementer and arithmetic and Boolean logic.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "User-visible registers allow the programmer to minimize main memory references.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "The zero flag is set when the result of the last operation is zero.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "During the fetch cycle the PC value is moved to the MBR first.",
+  "exp": "PC → MAR أولاً.",
+  "ref": "المصدر: Ch16 notes §3.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "The PC is incremented during the fetch cycle.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §3.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "In the interrupt cycle, the PC is loaded with the address of the interrupt routine.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §3.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "Pipelining performance is limited by unequal stage durations, conditional branches and interrupts.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §4",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "A resource hazard occurs when two instructions need the same resource.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "RAW is called an antidependency.",
+  "exp": "RAW = true dependency، WAR = antidependency.",
+  "ref": "المصدر: Ch16 notes §5.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "WAW is called output dependency.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "A loop buffer stores loop instructions in a small fast memory.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "Delayed branch executes the instruction after the branch (delay slot) before the branch takes effect.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "T"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "tf",
+  "q": "The multiple streams technique requires less hardware than other branch methods.",
+  "exp": "يتطلب عتاداً أكثر.",
+  "ref": "المصدر: Ch16 notes §5.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "T",
+    "True"
+   ],
+   [
+    "F",
+    "False"
+   ]
+  ],
+  "ans": "F"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "mcq",
+  "q": "Which flag is set when an operation produces a carry out of the leftmost bit?",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Equal"
+   ],
+   [
+    "B",
+    "Zero"
+   ],
+   [
+    "C",
+    "Sign"
+   ],
+   [
+    "D",
+    "Carry"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "mcq",
+  "q": "In the fetch cycle the instruction read from memory is first held in the _________ and then moved to the IR.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §3.1",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "PC"
+   ],
+   [
+    "B",
+    "MBR"
+   ],
+   [
+    "C",
+    "MAR"
+   ],
+   [
+    "D",
+    "ALU"
+   ]
+  ],
+  "ans": "B"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "mcq",
+  "q": "In the indirect cycle the right-most N bits of the MBR are transferred to the _________.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §3.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "IR"
+   ],
+   [
+    "B",
+    "PC"
+   ],
+   [
+    "C",
+    "MAR"
+   ],
+   [
+    "D",
+    "ALU"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "mcq",
+  "q": "In the interrupt cycle the saved PC is written to _________.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §3.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "the disk"
+   ],
+   [
+    "B",
+    "the IR"
+   ],
+   [
+    "C",
+    "the ALU"
+   ],
+   [
+    "D",
+    "a reserved memory location (e.g. stack pointer)"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "mcq",
+  "q": "Which hazard occurs when the pipeline makes the wrong branch prediction decision?",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Resource hazard"
+   ],
+   [
+    "B",
+    "Data hazard"
+   ],
+   [
+    "C",
+    "Control hazard"
+   ],
+   [
+    "D",
+    "None"
+   ]
+  ],
+  "ans": "C"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "mcq",
+  "q": "Which data hazard happens when the read takes place before the write operation is complete?",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "RAW"
+   ],
+   [
+    "B",
+    "WAR"
+   ],
+   [
+    "C",
+    "WAW"
+   ],
+   [
+    "D",
+    "None"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "mcq",
+  "q": "Which technique fetches instructions from more than one possible path?",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Multiple streams"
+   ],
+   [
+    "B",
+    "Delayed branch"
+   ],
+   [
+    "C",
+    "Prefetch branch target"
+   ],
+   [
+    "D",
+    "Loop buffer"
+   ]
+  ],
+  "ans": "A"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "mcq",
+  "q": "Which of the following is another name for a pipeline hazard?",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5",
+  "origin": "extracted",
+  "note": "",
+  "opts": [
+   [
+    "A",
+    "Pipeline cache"
+   ],
+   [
+    "B",
+    "Pipeline flag"
+   ],
+   [
+    "C",
+    "Pipeline bus"
+   ],
+   [
+    "D",
+    "Pipeline bubble"
+   ]
+  ],
+  "ans": "D"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "fib",
+  "q": "The PSW flag that shows whether the result was positive or negative is the _________ flag.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Sign"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "fib",
+  "q": "WAR stands for Write After _________.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.2",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "Read"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "fib",
+  "q": "The instruction register holds the instruction that was _________.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "fetched"
+ },
+ {
+  "sec": "Ch16: Processor Structure & Function",
+  "type": "fib",
+  "q": "The five techniques for conditional branches are multiple streams, prefetch branch target, loop buffer, branch prediction and _________ branch.",
+  "exp": "",
+  "ref": "المصدر: Ch16 notes §5.3",
+  "origin": "extracted",
+  "note": "",
+  "opts": [],
+  "ans": "delayed"
+ }
+]
